@@ -1,0 +1,2 @@
+Source IP,Source Port,Destination IP,Destination Port,Protocol,Packet Size,Flags,Sequence Number,Acknowledgment Number,Payload Data,Payload Length,Payload Entropy,Byte Frequency Total,Byte Frequency Entropy,Source IP (original),Destination IP (original)
+0,443,4,1591,0,991,1,3427648740,3363056773,8,937,7.733975957129365,937,2.9067665651199444,0,4

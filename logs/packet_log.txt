@@ -1,0 +1,1976 @@
+INFO:root:Packet: Ether / IP / TCP 102.132.96.55:http > 192.168.0.100:64785 FA
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64785 > 102.132.96.55:http A
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64664 > 104.26.6.95:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:64664 A / Padding
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64789 > 102.132.104.60:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64787 > 102.132.96.54:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64790 > 102.132.96.54:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64788 > 196.202.177.98:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:64788 A / Padding
+INFO:root:Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:64788 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:64788 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:64788 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64788 > 196.202.177.98:https A
+INFO:root:Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:64787 A / Padding
+INFO:root:Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:64790 A / Padding
+INFO:root:Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:64787 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:64790 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:64787 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:64787 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:64790 PA / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / TCP 159.124.5.174:https > 192.168.0.100:64898 A / Padding
+INFO:root:Packet: Ether / IP / TCP 159.124.5.174:https > 192.168.0.100:64898 A / Padding
+INFO:root:Packet: Ether / IP / TCP 159.124.5.174:https > 192.168.0.100:64898 A / Padding
+INFO:root:Packet: Ether / IP / TCP 159.124.5.174:https > 192.168.0.100:64898 PA / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:64898 > 159.124.5.174:https A
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:57602 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:57602 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:57600 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / TCP 159.124.5.174:https > 192.168.0.100:64898 PA / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 192.168.0.100:61693 > 159.124.5.174:8801 / Raw
+INFO:root:Packet: Ether / IP / TCP 159.124.5.174:https > 192.168.0.100:64898 A / Padding
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:61693 / Raw
+INFO:root:Packet: Ether / IP / UDP 159.124.5.174:8801 > 192.168.0.100:57602 / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62231 > 66.102.1.188:5228 A / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https A / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https A / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Padding
+INFO:root:Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Padding
+INFO:root:Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Padding
+INFO:root:Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Raw
+INFO:root:Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https A
+INFO:root:Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https A
+INFO:root:Packet: Ether / IP / TCP 66.102.1.188:5228 > 192.168.0.100:62231 R
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 S
+INFO:root:Packet: Ether / IP / TCP 74.125.71.188:5228 > 192.168.0.100:62274 SA
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 A
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 A / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62273 > 130.211.36.94:https A / Raw
+INFO:root:Packet: Ether / IP / TCP 130.211.36.94:https > 192.168.0.100:62273 A
+INFO:root:Packet: Ether / IP / TCP 3.33.252.61:http > 192.168.0.100:62255 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62255 > 3.33.252.61:http PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62207 > 170.72.239.253:https A / Raw
+INFO:root:Packet: Ether / IP / TCP 3.33.252.61:http > 192.168.0.100:62255 A / Padding
+INFO:root:Packet: Ether / IP / TCP 170.72.239.253:https > 192.168.0.100:62207 A
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62283 > 104.26.7.95:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62283 A / Padding
+INFO:root:Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62283 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62283 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62283 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62283 > 104.26.7.95:https A
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62283 > 104.26.7.95:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62283 A / Padding
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62076 > 35.190.80.1:https A / Raw
+INFO:root:Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+INFO:root:Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:62076 A
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+INFO:root:Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:10:28,143 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 13:10:28,652 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62328 > 54.80.69.239:https A / Raw
+2024-10-09 13:10:28,653 - INFO - Packet logged: 192.168.0.100 -> 54.80.69.239 (Flags: A)
+2024-10-09 13:10:28,666 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62327 > 54.80.69.239:https A / Raw
+2024-10-09 13:10:28,666 - INFO - Packet logged: 192.168.0.100 -> 54.80.69.239 (Flags: A)
+2024-10-09 13:10:28,896 - DEBUG - Packet: Ether / IP / TCP 54.80.69.239:https > 192.168.0.100:62328 A
+2024-10-09 13:10:28,896 - INFO - Packet logged: 54.80.69.239 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:28,905 - DEBUG - Packet: Ether / IP / TCP 54.80.69.239:https > 192.168.0.100:62327 A
+2024-10-09 13:10:28,906 - INFO - Packet logged: 54.80.69.239 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:31,637 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62207 > 170.72.239.253:https A / Raw
+2024-10-09 13:10:31,637 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.253 (Flags: A)
+2024-10-09 13:10:31,795 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62286 > 104.18.32.47:https A / Raw
+2024-10-09 13:10:31,796 - INFO - Packet logged: 192.168.0.100 -> 104.18.32.47 (Flags: A)
+2024-10-09 13:10:31,895 - DEBUG - Packet: Ether / IP / TCP 104.18.32.47:https > 192.168.0.100:62286 A
+2024-10-09 13:10:31,895 - INFO - Packet logged: 104.18.32.47 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:35,173 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:10:35,174 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:10:35,178 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:10:35,178 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:10:35,555 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:10:35,555 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:10:35,567 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:10:35,568 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:10:35,582 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:10:35,582 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:35,891 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:10:35,891 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:35,899 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:10:35,900 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:10:35,906 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:10:35,907 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:10:35,911 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A
+2024-10-09 13:10:35,912 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:35,967 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62283 > 104.26.7.95:https PA / Raw
+2024-10-09 13:10:35,967 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:10:35,971 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62283 A / Padding
+2024-10-09 13:10:35,972 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:36,188 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:10:36,189 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:10:36,276 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62283 PA / Raw
+2024-10-09 13:10:36,276 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:10:36,333 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 13:12:43,210 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 13:12:43,497 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:12:43,498 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:12:43,685 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:12:43,685 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:12:43,689 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:12:43,689 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:12:43,892 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:12:43,893 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:12:43,900 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:12:43,900 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:12:43,906 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:12:43,906 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:12:44,097 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:12:44,097 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:12:44,184 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:12:44,184 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:12:46,244 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:12:46,245 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:12:46,248 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 A / Padding
+2024-10-09 13:12:46,249 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:12:46,656 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:12:46,656 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:12:46,662 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:12:46,662 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:12:46,665 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https A
+2024-10-09 13:12:46,665 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 13:12:46,668 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:12:46,669 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:12:46,672 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:12:46,672 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:12:46,675 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https A
+2024-10-09 13:12:46,675 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 13:12:46,678 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:12:46,679 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:12:46,682 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 A / Padding
+2024-10-09 13:12:46,682 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:12:46,922 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62286 > 104.18.32.47:https A / Raw
+2024-10-09 13:12:46,922 - INFO - Packet logged: 192.168.0.100 -> 104.18.32.47 (Flags: A)
+2024-10-09 13:12:46,927 - DEBUG - Packet: Ether / IP / TCP 104.18.32.47:https > 192.168.0.100:62286 A
+2024-10-09 13:12:46,927 - INFO - Packet logged: 104.18.32.47 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:12:46,950 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 13:14:03,787 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 13:14:03,841 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:14:03,842 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:03,850 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:14:03,851 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:03,857 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:14:03,858 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:14:04,173 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:14:04,174 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:06,329 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:14:06,330 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:14:06,336 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 A / Padding
+2024-10-09 13:14:06,337 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:06,473 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62333 > 170.72.239.213:https A / Raw
+2024-10-09 13:14:06,473 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.213 (Flags: A)
+2024-10-09 13:14:06,838 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:06,839 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:06,844 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:06,844 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:06,847 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https A
+2024-10-09 13:14:06,848 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 13:14:06,851 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:06,851 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:06,854 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:06,854 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:06,857 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https A
+2024-10-09 13:14:06,857 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 13:14:06,860 - DEBUG - Packet: Ether / IP / TCP 170.72.239.213:https > 192.168.0.100:62333 A
+2024-10-09 13:14:06,860 - INFO - Packet logged: 170.72.239.213 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:06,864 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:14:06,864 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:14:06,867 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 A / Padding
+2024-10-09 13:14:06,867 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:16,335 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:14:16,336 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:14:16,460 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 A / Padding
+2024-10-09 13:14:16,461 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:16,767 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:16,768 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:16,773 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:16,774 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:16,793 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 13:14:24,457 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 13:14:26,350 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:14:26,351 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:14:26,653 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:14:26,654 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:14:26,660 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 A
+2024-10-09 13:14:26,661 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:26,749 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:26,750 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:26,755 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:26,755 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:26,758 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 PA / Raw
+2024-10-09 13:14:26,758 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:26,762 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https A
+2024-10-09 13:14:26,762 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 13:14:26,765 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:14:26,765 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:14:26,768 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62332 A / Padding
+2024-10-09 13:14:26,768 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:33,432 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62331 > 172.64.155.209:https A / Raw
+2024-10-09 13:14:33,433 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 13:14:33,562 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:62331 A
+2024-10-09 13:14:33,562 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:35,094 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:14:35,094 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:35,101 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:14:35,102 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:14:35,389 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:14:35,390 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:35,540 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:14:35,540 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:14:35,836 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:14:35,836 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:35,840 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:14:35,841 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:14:35,844 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:14:35,844 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:14:36,174 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:14:36,174 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:14:36,353 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62332 > 104.26.7.95:https PA / Raw
+2024-10-09 13:14:36,354 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:14:36,377 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 13:20:54,161 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 13:20:54,336 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:62349 PA / Raw
+2024-10-09 13:20:54,337 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:20:54,346 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62349 > 35.190.80.1:https PA / Raw
+2024-10-09 13:20:54,347 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 13:20:54,352 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62349 > 35.190.80.1:https PA / Raw
+2024-10-09 13:20:54,353 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 13:20:54,357 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:62349 A / Padding
+2024-10-09 13:20:54,357 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:20:56,871 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62350 > 104.26.7.95:https PA / Raw
+2024-10-09 13:20:56,872 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:20:56,876 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62350 A / Padding
+2024-10-09 13:20:56,877 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:20:57,289 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62350 PA / Raw
+2024-10-09 13:20:57,290 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:20:57,298 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62350 PA / Raw
+2024-10-09 13:20:57,298 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:20:57,302 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62350 > 104.26.7.95:https A
+2024-10-09 13:20:57,302 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 13:20:57,305 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62350 > 104.26.7.95:https PA / Raw
+2024-10-09 13:20:57,306 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:20:57,309 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62350 A / Padding
+2024-10-09 13:20:57,309 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:21:02,502 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https A / Raw
+2024-10-09 13:21:02,503 - INFO - Packet logged: 192.168.0.100 -> 52.84.102.26 (Flags: A)
+2024-10-09 13:21:02,509 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https A / Raw
+2024-10-09 13:21:02,509 - INFO - Packet logged: 192.168.0.100 -> 52.84.102.26 (Flags: A)
+2024-10-09 13:21:02,514 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https PA / Raw
+2024-10-09 13:21:02,514 - INFO - Packet logged: 192.168.0.100 -> 52.84.102.26 (Flags: PA)
+2024-10-09 13:21:02,519 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62190 > 52.84.102.26:https PA / Raw
+2024-10-09 13:21:02,519 - INFO - Packet logged: 192.168.0.100 -> 52.84.102.26 (Flags: PA)
+2024-10-09 13:21:02,580 - DEBUG - Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Padding
+2024-10-09 13:21:02,580 - INFO - Packet logged: 52.84.102.26 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:21:02,583 - DEBUG - Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Padding
+2024-10-09 13:21:02,583 - INFO - Packet logged: 52.84.102.26 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:21:02,588 - DEBUG - Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Padding
+2024-10-09 13:21:02,589 - INFO - Packet logged: 52.84.102.26 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:21:02,591 - DEBUG - Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 PA / Raw
+2024-10-09 13:21:02,592 - INFO - Packet logged: 52.84.102.26 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:21:02,595 - DEBUG - Packet: Ether / IP / TCP 52.84.102.26:https > 192.168.0.100:62190 A / Raw
+2024-10-09 13:21:02,595 - INFO - Packet logged: 52.84.102.26 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:21:02,613 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 13:29:13,369 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 13:29:17,393 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62352 > 104.26.7.95:https PA / Raw
+2024-10-09 13:29:17,394 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:29:17,630 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62352 > 104.26.7.95:https PA / Raw
+2024-10-09 13:29:17,630 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:29:17,930 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62352 > 104.26.7.95:https PA / Raw
+2024-10-09 13:29:17,930 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:29:18,260 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62375 > 216.58.223.99:https A / Raw
+2024-10-09 13:29:18,261 - INFO - Packet logged: 192.168.0.100 -> 216.58.223.99 (Flags: A)
+2024-10-09 13:29:18,544 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62352 > 104.26.7.95:https PA / Raw
+2024-10-09 13:29:18,545 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:29:19,002 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62017 > 20.199.120.85:https PA / Raw
+2024-10-09 13:29:19,003 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.85 (Flags: PA)
+2024-10-09 13:29:19,316 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62017 > 20.199.120.85:https PA / Raw
+2024-10-09 13:29:19,316 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.85 (Flags: PA)
+2024-10-09 13:29:19,428 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62352 PA / Raw
+2024-10-09 13:29:19,430 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:29:19,437 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62352 > 104.26.7.95:https PA / Raw
+2024-10-09 13:29:19,437 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:29:19,631 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62017 > 20.199.120.85:https PA / Raw
+2024-10-09 13:29:19,632 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.85 (Flags: PA)
+2024-10-09 13:29:20,243 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62017 > 20.199.120.85:https PA / Raw
+2024-10-09 13:29:20,244 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.85 (Flags: PA)
+2024-10-09 13:29:20,480 - DEBUG - Packet: Ether / IP / TCP 20.199.120.85:https > 192.168.0.100:62017 A
+2024-10-09 13:29:20,481 - INFO - Packet logged: 20.199.120.85 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:29:20,490 - DEBUG - Packet: Ether / IP / TCP 20.199.120.85:https > 192.168.0.100:62017 PA / Raw
+2024-10-09 13:29:20,490 - INFO - Packet logged: 20.199.120.85 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:29:20,526 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62017 > 20.199.120.85:https A
+2024-10-09 13:29:20,526 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.85 (Flags: A)
+2024-10-09 13:29:20,687 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62379 > 204.79.197.203:https RA
+2024-10-09 13:29:20,688 - INFO - Packet logged: 192.168.0.100 -> 204.79.197.203 (Flags: RA)
+2024-10-09 13:29:21,767 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62352 > 104.26.7.95:https PA / Raw
+2024-10-09 13:29:21,767 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 13:29:21,878 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:62352 A
+2024-10-09 13:29:21,878 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:29:22,131 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 PA / Raw
+2024-10-09 13:29:22,132 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: PA)
+2024-10-09 13:29:22,135 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62018 > 170.72.239.201:https PA / Raw
+2024-10-09 13:29:22,136 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.201 (Flags: PA)
+2024-10-09 13:29:22,425 - DEBUG - Packet: Ether / IP / TCP 170.72.239.201:https > 192.168.0.100:62018 A / Padding
+2024-10-09 13:29:22,426 - INFO - Packet logged: 170.72.239.201 -> 192.168.0.100 (Flags: A)
+2024-10-09 13:29:22,460 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 16:04:05,211 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 16:04:05,243 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,243 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,343 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,343 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,346 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,347 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,368 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,368 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,409 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,409 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,464 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,464 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,495 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,496 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,544 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,545 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,581 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,582 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,623 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,624 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,668 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,668 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,718 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,718 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,757 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,758 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,812 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,812 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,839 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,839 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,892 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,892 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:05,926 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:05,926 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:05,971 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:05,972 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:06,012 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A / Raw
+2024-10-09 16:04:06,012 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:04:06,067 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A
+2024-10-09 16:04:06,067 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:04:06,204 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 16:04:06,257 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 16:05:14,467 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 16:05:14,624 - DEBUG - Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:63100 FA
+2024-10-09 16:05:14,625 - INFO - Packet logged: 196.202.177.98 -> 192.168.0.100 (Flags: FA)
+2024-10-09 16:05:14,634 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63100 > 196.202.177.98:https A
+2024-10-09 16:05:14,634 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: A)
+2024-10-09 16:05:14,702 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:05:14,702 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:05:15,564 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:05:15,565 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:05:17,298 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:05:17,299 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:05:20,760 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:05:20,760 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:05:20,871 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 A
+2024-10-09 16:05:20,871 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:05:21,141 - DEBUG - Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:63100 FPA / Raw
+2024-10-09 16:05:21,142 - INFO - Packet logged: 196.202.177.98 -> 192.168.0.100 (Flags: FPA)
+2024-10-09 16:05:21,149 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63100 > 196.202.177.98:https A
+2024-10-09 16:05:21,150 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: A)
+2024-10-09 16:05:21,301 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 A / Raw
+2024-10-09 16:05:21,301 - INFO - Packet logged: 192.168.0.100 -> 74.125.71.188 (Flags: A)
+2024-10-09 16:05:21,480 - DEBUG - Packet: Ether / IP / TCP 74.125.71.188:5228 > 192.168.0.100:62274 A
+2024-10-09 16:05:21,481 - INFO - Packet logged: 74.125.71.188 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:05:22,057 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:05:22,058 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:05:22,070 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:05:22,070 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:05:22,076 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 A / Padding
+2024-10-09 16:05:22,076 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:05:24,171 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:05:24,171 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:05:24,179 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 A / Padding
+2024-10-09 16:05:24,179 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:05:24,743 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:05:24,743 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:05:24,746 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https A
+2024-10-09 16:05:24,747 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-09 16:05:24,751 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:05:24,752 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:05:24,755 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https A
+2024-10-09 16:05:24,755 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-09 16:05:24,773 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 16:05:24,785 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 16:06:05,447 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 16:06:05,727 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:06:05,728 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:06:05,829 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 A
+2024-10-09 16:06:05,830 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:06:06,482 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 A / Raw
+2024-10-09 16:06:06,483 - INFO - Packet logged: 192.168.0.100 -> 74.125.71.188 (Flags: A)
+2024-10-09 16:06:06,751 - DEBUG - Packet: Ether / IP / TCP 74.125.71.188:5228 > 192.168.0.100:62274 A
+2024-10-09 16:06:06,751 - INFO - Packet logged: 74.125.71.188 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:06:06,814 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63091 > 20.199.120.151:https PA / Raw
+2024-10-09 16:06:06,815 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-09 16:06:07,128 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63091 > 20.199.120.151:https PA / Raw
+2024-10-09 16:06:07,129 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-09 16:06:07,444 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63091 > 20.199.120.151:https PA / Raw
+2024-10-09 16:06:07,445 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-09 16:06:08,059 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63091 > 20.199.120.151:https PA / Raw
+2024-10-09 16:06:08,059 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-09 16:06:09,274 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63091 > 20.199.120.151:https PA / Raw
+2024-10-09 16:06:09,275 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-09 16:06:11,674 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63091 > 20.199.120.151:https PA / Raw
+2024-10-09 16:06:11,675 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-09 16:06:13,850 - DEBUG - Packet: Ether / IP / TCP 170.72.239.163:https > 192.168.0.100:62748 PA / Raw
+2024-10-09 16:06:13,850 - INFO - Packet logged: 170.72.239.163 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:06:13,858 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62748 > 170.72.239.163:https FA
+2024-10-09 16:06:13,858 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.163 (Flags: FA)
+2024-10-09 16:06:14,143 - DEBUG - Packet: Ether / IP / TCP 170.72.239.163:https > 192.168.0.100:62748 PA / Raw
+2024-10-09 16:06:14,143 - INFO - Packet logged: 170.72.239.163 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:06:14,149 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62748 > 170.72.239.163:https RA
+2024-10-09 16:06:14,149 - INFO - Packet logged: 192.168.0.100 -> 170.72.239.163 (Flags: RA)
+2024-10-09 16:06:14,229 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:06:14,230 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:06:14,235 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 A / Padding
+2024-10-09 16:06:14,235 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:06:14,712 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:06:14,713 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:06:14,719 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:06:14,719 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:06:14,724 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:06:14,724 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:06:14,729 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https A
+2024-10-09 16:06:14,730 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-09 16:06:14,750 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 16:06:14,762 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 16:09:48,242 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 16:09:52,412 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 A / Raw
+2024-10-09 16:09:52,413 - INFO - Packet logged: 192.168.0.100 -> 74.125.71.188 (Flags: A)
+2024-10-09 16:09:52,650 - DEBUG - Packet: Ether / IP / TCP 74.125.71.188:5228 > 192.168.0.100:62274 A
+2024-10-09 16:09:52,651 - INFO - Packet logged: 74.125.71.188 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:09:52,947 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63088 > 172.64.155.209:https A / Raw
+2024-10-09 16:09:52,948 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 16:09:53,054 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63088 A
+2024-10-09 16:09:53,054 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:09:54,239 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63089 > 104.18.32.47:https A / Raw
+2024-10-09 16:09:54,240 - INFO - Packet logged: 192.168.0.100 -> 104.18.32.47 (Flags: A)
+2024-10-09 16:09:54,389 - DEBUG - Packet: Ether / IP / TCP 104.18.32.47:https > 192.168.0.100:63089 R
+2024-10-09 16:09:54,390 - INFO - Packet logged: 104.18.32.47 -> 192.168.0.100 (Flags: R)
+2024-10-09 16:09:54,476 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:09:54,477 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:09:54,591 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 A / Padding
+2024-10-09 16:09:54,592 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:09:54,899 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:09:54,900 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:09:54,910 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:09:54,910 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:09:54,917 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https A
+2024-10-09 16:09:54,917 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-09 16:09:54,921 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 PA / Raw
+2024-10-09 16:09:54,921 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:09:54,924 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62912 > 172.67.73.98:https PA / Raw
+2024-10-09 16:09:54,924 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 16:09:54,927 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:62912 A / Padding
+2024-10-09 16:09:54,928 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:09:55,340 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63072 > 35.190.80.1:https PA / Raw
+2024-10-09 16:09:55,341 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 16:09:55,343 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63072 > 35.190.80.1:https PA / Raw
+2024-10-09 16:09:55,344 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 16:09:55,352 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63072 A / Padding
+2024-10-09 16:09:55,352 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:09:55,356 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63072 A / Padding
+2024-10-09 16:09:55,356 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:09:55,359 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63072 PA / Raw
+2024-10-09 16:09:55,359 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:09:55,400 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63072 > 35.190.80.1:https A
+2024-10-09 16:09:55,401 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-09 16:09:55,419 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 16:09:55,432 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 16:21:22,250 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 16:21:23,591 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63130 > 34.125.80.210:https A / Raw
+2024-10-09 16:21:23,592 - INFO - Packet logged: 192.168.0.100 -> 34.125.80.210 (Flags: A)
+2024-10-09 16:21:25,199 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63127 > 104.26.7.95:https PA / Raw
+2024-10-09 16:21:25,199 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 16:21:25,283 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 A / Padding
+2024-10-09 16:21:25,284 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:21:25,743 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63116 > 35.190.53.226:https A / Raw
+2024-10-09 16:21:25,743 - INFO - Packet logged: 192.168.0.100 -> 35.190.53.226 (Flags: A)
+2024-10-09 16:21:25,760 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 PA / Raw
+2024-10-09 16:21:25,761 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:21:25,766 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 PA / Raw
+2024-10-09 16:21:25,766 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:21:25,771 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63127 > 104.26.7.95:https A
+2024-10-09 16:21:25,771 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 16:21:25,774 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 PA / Raw
+2024-10-09 16:21:25,774 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:21:25,777 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 PA / Raw
+2024-10-09 16:21:25,777 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:21:25,780 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63127 > 104.26.7.95:https A
+2024-10-09 16:21:25,780 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 16:21:25,783 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63127 > 104.26.7.95:https PA / Raw
+2024-10-09 16:21:25,783 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 16:21:25,786 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 A / Padding
+2024-10-09 16:21:25,787 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:21:25,790 - DEBUG - Packet: Ether / IP / TCP 35.190.53.226:https > 192.168.0.100:63116 A
+2024-10-09 16:21:25,790 - INFO - Packet logged: 35.190.53.226 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:21:32,691 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63105 > 20.199.120.151:https PA / Raw
+2024-10-09 16:21:32,692 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-09 16:21:32,816 - DEBUG - Packet: Ether / IP / TCP 20.199.120.151:https > 192.168.0.100:63105 PA / Raw
+2024-10-09 16:21:32,816 - INFO - Packet logged: 20.199.120.151 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:21:32,862 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63105 > 20.199.120.151:https A
+2024-10-09 16:21:32,863 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: A)
+2024-10-09 16:21:35,207 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63127 > 104.26.7.95:https PA / Raw
+2024-10-09 16:21:35,208 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 16:21:35,215 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 A / Padding
+2024-10-09 16:21:35,216 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 16:21:35,572 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63128 > 20.189.173.8:https FA
+2024-10-09 16:21:35,573 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.8 (Flags: FA)
+2024-10-09 16:21:35,626 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63127 PA / Raw
+2024-10-09 16:21:35,628 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 16:21:35,656 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 16:21:35,667 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 17:22:50,025 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 17:22:55,946 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63250 > 35.190.80.1:https PA / Raw
+2024-10-09 17:22:55,946 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:22:55,952 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63250 > 35.190.80.1:https PA / Raw
+2024-10-09 17:22:55,952 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:22:56,415 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63250 PA / Raw
+2024-10-09 17:22:56,416 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:22:56,423 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63250 > 35.190.80.1:https A
+2024-10-09 17:22:56,423 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-09 17:22:56,432 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63250 PA / Raw
+2024-10-09 17:22:56,432 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:22:56,436 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63250 > 35.190.80.1:https A
+2024-10-09 17:22:56,436 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-09 17:22:56,440 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63250 > 35.190.80.1:https PA / Raw
+2024-10-09 17:22:56,440 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:22:56,443 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63250 > 35.190.80.1:https PA / Raw
+2024-10-09 17:22:56,444 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:22:56,446 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63250 A / Padding
+2024-10-09 17:22:56,447 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:22:58,731 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63337 > 172.67.73.98:https PA / Raw
+2024-10-09 17:22:58,732 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 17:22:58,742 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63337 > 172.67.73.98:https PA / Raw
+2024-10-09 17:22:58,742 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 17:22:58,794 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:63337 A / Padding
+2024-10-09 17:22:58,794 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:22:58,797 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:63337 A / Padding
+2024-10-09 17:22:58,797 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:23:01,535 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63338 > 20.199.120.182:https PA / Raw
+2024-10-09 17:23:01,536 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: PA)
+2024-10-09 17:23:01,734 - DEBUG - Packet: Ether / IP / TCP 20.199.120.182:https > 192.168.0.100:63338 PA / Raw
+2024-10-09 17:23:01,735 - INFO - Packet logged: 20.199.120.182 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:23:01,788 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63338 > 20.199.120.182:https A
+2024-10-09 17:23:01,788 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: A)
+2024-10-09 17:23:03,768 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63370 > 172.67.70.206:https A / Raw
+2024-10-09 17:23:03,770 - INFO - Packet logged: 192.168.0.100 -> 172.67.70.206 (Flags: A)
+2024-10-09 17:23:03,884 - DEBUG - Packet: Ether / IP / TCP 172.67.70.206:https > 192.168.0.100:63370 A
+2024-10-09 17:23:03,884 - INFO - Packet logged: 172.67.70.206 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:23:08,749 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63371 > 104.26.6.95:https S
+2024-10-09 17:23:08,749 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: S)
+2024-10-09 17:23:08,753 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63337 > 172.67.73.98:https PA / Raw
+2024-10-09 17:23:08,753 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-09 17:23:08,770 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 17:23:08,781 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 17:43:27,683 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 17:43:30,056 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 17:43:30,056 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 17:43:30,132 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 17:43:30,133 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:43:30,392 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 17:43:30,393 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:43:30,401 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 17:43:30,402 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:43:30,407 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https A
+2024-10-09 17:43:30,408 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 17:43:30,411 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 17:43:30,412 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:43:30,415 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 17:43:30,415 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 17:43:30,468 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 17:43:30,468 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:43:34,993 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63419 > 172.217.170.174:https A / Raw
+2024-10-09 17:43:34,994 - INFO - Packet logged: 192.168.0.100 -> 172.217.170.174 (Flags: A)
+2024-10-09 17:43:35,044 - DEBUG - Packet: Ether / IP / TCP 172.217.170.174:https > 192.168.0.100:63419 A
+2024-10-09 17:43:35,045 - INFO - Packet logged: 172.217.170.174 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:43:36,000 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63420 > 172.217.170.168:https A / Raw
+2024-10-09 17:43:36,000 - INFO - Packet logged: 192.168.0.100 -> 172.217.170.168 (Flags: A)
+2024-10-09 17:43:36,068 - DEBUG - Packet: Ether / IP / TCP 172.217.170.168:https > 192.168.0.100:63420 A
+2024-10-09 17:43:36,069 - INFO - Packet logged: 172.217.170.168 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:43:40,061 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 17:43:40,061 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 17:43:40,165 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 17:43:40,165 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:43:40,474 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 17:43:40,475 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:43:40,486 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 17:43:40,486 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:43:40,492 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https A
+2024-10-09 17:43:40,492 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 17:43:40,496 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 17:43:40,496 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:43:40,499 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 17:43:40,499 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 17:43:40,533 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 17:43:40,534 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:43:40,550 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 17:43:40,560 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 17:47:53,922 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 17:47:56,181 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https PA / Raw
+2024-10-09 17:47:56,182 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:47:56,187 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https PA / Raw
+2024-10-09 17:47:56,188 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:47:56,431 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https PA / Raw
+2024-10-09 17:47:56,431 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:47:56,443 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63402 A
+2024-10-09 17:47:56,443 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:47:56,479 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63411 > 172.217.170.164:https A / Raw
+2024-10-09 17:47:56,480 - INFO - Packet logged: 192.168.0.100 -> 172.217.170.164 (Flags: A)
+2024-10-09 17:47:56,490 - DEBUG - Packet: Ether / IP / TCP 172.217.170.164:https > 192.168.0.100:63411 A
+2024-10-09 17:47:56,491 - INFO - Packet logged: 172.217.170.164 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:47:56,822 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63402 PA / Raw
+2024-10-09 17:47:56,822 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:47:56,825 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https PA / Raw
+2024-10-09 17:47:56,826 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:47:56,829 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https PA / Raw
+2024-10-09 17:47:56,829 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:47:56,835 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63402 A / Padding
+2024-10-09 17:47:56,836 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:47:57,090 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https PA / Raw
+2024-10-09 17:47:57,090 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-09 17:47:57,101 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63402 A
+2024-10-09 17:47:57,102 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:48:00,309 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 17:48:00,310 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 17:48:00,313 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 17:48:00,314 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 17:48:00,467 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 17:48:00,468 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:48:00,479 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 17:48:00,480 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 17:48:01,743 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63338 > 20.199.120.182:https PA / Raw
+2024-10-09 17:48:01,744 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: PA)
+2024-10-09 17:48:01,899 - DEBUG - Packet: Ether / IP / TCP 20.199.120.182:https > 192.168.0.100:63338 PA / Raw
+2024-10-09 17:48:01,900 - INFO - Packet logged: 20.199.120.182 -> 192.168.0.100 (Flags: PA)
+2024-10-09 17:48:01,947 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63338 > 20.199.120.182:https A
+2024-10-09 17:48:01,948 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: A)
+2024-10-09 17:48:02,077 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63394 > 102.132.104.60:https FA
+2024-10-09 17:48:02,078 - INFO - Packet logged: 192.168.0.100 -> 102.132.104.60 (Flags: FA)
+2024-10-09 17:48:02,109 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 17:48:02,123 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 18:08:29,820 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 18:08:31,029 - DEBUG - Packet: Ether / IP / TCP 2.17.168.242:http > 192.168.0.100:63537 SA
+2024-10-09 18:08:31,030 - INFO - Packet logged: 2.17.168.242 -> 192.168.0.100 (Flags: SA)
+2024-10-09 18:08:31,036 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63537 > 2.17.168.242:http A
+2024-10-09 18:08:31,036 - INFO - Packet logged: 192.168.0.100 -> 2.17.168.242 (Flags: A)
+2024-10-09 18:08:35,094 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:08:35,095 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:08:35,111 - DEBUG - Packet: Ether / IP / TCP 2.17.168.242:http > 192.168.0.100:63537 SA
+2024-10-09 18:08:35,111 - INFO - Packet logged: 2.17.168.242 -> 192.168.0.100 (Flags: SA)
+2024-10-09 18:08:35,116 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63537 > 2.17.168.242:http A
+2024-10-09 18:08:35,116 - INFO - Packet logged: 192.168.0.100 -> 2.17.168.242 (Flags: A)
+2024-10-09 18:08:35,212 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:08:35,212 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:08:35,524 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:08:35,526 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:08:35,534 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:08:35,535 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:08:35,540 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https A
+2024-10-09 18:08:35,540 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 18:08:35,544 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:08:35,544 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:08:35,547 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:08:35,547 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:08:35,581 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:08:35,582 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:08:39,700 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63512 > 172.64.155.209:https A / Raw
+2024-10-09 18:08:39,700 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 18:08:39,821 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63512 A
+2024-10-09 18:08:39,822 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:08:41,607 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https A / Raw
+2024-10-09 18:08:41,608 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-09 18:08:41,663 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63402 A
+2024-10-09 18:08:41,665 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:08:43,201 - DEBUG - Packet: Ether / IP / TCP 2.17.168.242:http > 192.168.0.100:63537 SA
+2024-10-09 18:08:43,201 - INFO - Packet logged: 2.17.168.242 -> 192.168.0.100 (Flags: SA)
+2024-10-09 18:08:43,205 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63537 > 2.17.168.242:http A
+2024-10-09 18:08:43,206 - INFO - Packet logged: 192.168.0.100 -> 2.17.168.242 (Flags: A)
+2024-10-09 18:08:45,099 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:08:45,100 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:08:45,249 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:08:45,249 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:08:45,278 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 18:08:45,289 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 18:11:04,350 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 18:11:05,235 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:05,236 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:05,295 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:11:05,295 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:11:05,654 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:05,655 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:05,662 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:05,662 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:05,667 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:05,668 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:05,672 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https A
+2024-10-09 18:11:05,672 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 18:11:05,677 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:05,678 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:05,713 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:11:05,713 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:11:09,816 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 18:11:09,819 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-09 18:11:09,829 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 18:11:12,476 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 18:11:15,244 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:15,245 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:15,543 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:15,544 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:15,668 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:15,669 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:15,677 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:15,677 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:15,685 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https A
+2024-10-09 18:11:15,686 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 18:11:15,698 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:15,698 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:15,871 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:11:15,872 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:11:16,053 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:16,053 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:16,107 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https A
+2024-10-09 18:11:16,107 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 18:11:23,604 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63512 > 172.64.155.209:https A / Raw
+2024-10-09 18:11:23,604 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 18:11:23,761 - DEBUG - Packet: Ether / IP / TCP 172.64.155.209:https > 192.168.0.100:63512 A
+2024-10-09 18:11:23,762 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:11:25,247 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:25,247 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:25,401 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:11:25,402 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:11:25,606 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:25,606 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:25,612 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:25,612 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:25,615 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https A
+2024-10-09 18:11:25,615 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-09 18:11:25,618 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 PA / Raw
+2024-10-09 18:11:25,618 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-09 18:11:25,621 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:25,622 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:25,669 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:63401 A / Padding
+2024-10-09 18:11:25,669 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:11:35,258 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63401 > 104.26.7.95:https PA / Raw
+2024-10-09 18:11:35,259 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-09 18:11:35,284 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 18:11:35,286 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-09 18:11:35,294 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-09 18:17:41,388 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-09 18:17:42,108 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63402 > 35.190.80.1:https A / Raw
+2024-10-09 18:17:42,108 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-09 18:17:42,233 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:63402 A
+2024-10-09 18:17:42,234 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:17:50,059 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:62274 > 74.125.71.188:5228 A / Raw
+2024-10-09 18:17:50,060 - INFO - Packet logged: 192.168.0.100 -> 74.125.71.188 (Flags: A)
+2024-10-09 18:17:50,325 - DEBUG - Packet: Ether / IP / TCP 74.125.71.188:5228 > 192.168.0.100:62274 A
+2024-10-09 18:17:50,325 - INFO - Packet logged: 74.125.71.188 -> 192.168.0.100 (Flags: A)
+2024-10-09 18:17:51,406 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63526 > 172.64.155.209:https A / Raw
+2024-10-09 18:17:51,406 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-09 18:17:54,601 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63510 > 196.202.177.98:https FA
+2024-10-09 18:17:54,602 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: FA)
+2024-10-09 18:17:54,623 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63508 > 102.132.104.60:https FA
+2024-10-09 18:17:54,624 - INFO - Packet logged: 192.168.0.100 -> 102.132.104.60 (Flags: FA)
+2024-10-09 18:17:54,668 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63509 > 102.132.96.54:https FA
+2024-10-09 18:17:54,669 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-09 18:17:54,671 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63511 > 102.132.96.54:https FA
+2024-10-09 18:17:54,672 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-09 18:17:54,901 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63510 > 196.202.177.98:https FA
+2024-10-09 18:17:54,902 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: FA)
+2024-10-09 18:17:54,933 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63508 > 102.132.104.60:https FA
+2024-10-09 18:17:54,933 - INFO - Packet logged: 192.168.0.100 -> 102.132.104.60 (Flags: FA)
+2024-10-09 18:17:54,980 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63509 > 102.132.96.54:https FA
+2024-10-09 18:17:54,980 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-09 18:17:54,988 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63511 > 102.132.96.54:https FA
+2024-10-09 18:17:54,989 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-09 18:17:55,514 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63510 > 196.202.177.98:https FA
+2024-10-09 18:17:55,514 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: FA)
+2024-10-09 18:17:55,543 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63508 > 102.132.104.60:https FA
+2024-10-09 18:17:55,544 - INFO - Packet logged: 192.168.0.100 -> 102.132.104.60 (Flags: FA)
+2024-10-09 18:17:55,592 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63509 > 102.132.96.54:https FA
+2024-10-09 18:17:55,592 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-09 18:17:55,595 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63511 > 102.132.96.54:https FA
+2024-10-09 18:17:55,595 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-09 18:17:55,657 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63544 > 104.26.6.95:https PA / Raw
+2024-10-09 18:17:55,658 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-09 18:17:55,662 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63544 > 104.26.6.95:https PA / Raw
+2024-10-09 18:17:55,662 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-09 18:17:55,786 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:63554 > 102.132.96.55:5222 S
+2024-10-09 18:17:55,786 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.55 (Flags: S)
+2024-10-09 18:17:55,805 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-09 18:17:55,807 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-09 18:17:55,816 - ERROR - Error running Nmap scan: [WinError 2] The system cannot find the file specified
+2024-10-10 11:47:38,390 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 11:47:38,518 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:47:38,519 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:47:38,585 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 11:47:38,585 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 11:47:41,317 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24016 > 66.102.1.188:5228 A / Raw
+2024-10-10 11:47:41,318 - INFO - Packet logged: 192.168.0.100 -> 66.102.1.188 (Flags: A)
+2024-10-10 11:47:47,857 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 11:47:47,858 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 11:47:47,911 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 11:47:47,911 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 11:47:48,219 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:47:48,219 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:47:48,227 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:47:48,227 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:47:48,230 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 11:47:48,230 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 11:47:48,233 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:47:48,233 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:47:48,261 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 11:47:48,261 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 11:47:48,269 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 11:47:48,269 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 11:47:57,854 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 11:47:57,854 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 11:47:57,946 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 11:47:57,947 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 11:47:58,255 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:47:58,256 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:47:58,264 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:47:58,265 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:47:58,269 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 11:47:58,270 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 11:47:58,275 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:47:58,276 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:47:58,281 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 11:47:58,282 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 11:47:58,286 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 11:47:58,287 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 11:48:04,147 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24131 > 104.18.32.47:https A / Raw
+2024-10-10 11:48:04,148 - INFO - Packet logged: 192.168.0.100 -> 104.18.32.47 (Flags: A)
+2024-10-10 11:48:04,342 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 11:48:04,345 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-10 11:48:26,599 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 11:58:42,595 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 11:58:43,219 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24214 > 52.167.167.231:https RA
+2024-10-10 11:58:43,220 - INFO - Packet logged: 192.168.0.100 -> 52.167.167.231 (Flags: RA)
+2024-10-10 11:58:48,574 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 11:58:48,575 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 11:58:48,584 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 11:58:48,585 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 11:58:48,885 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:58:48,886 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:58:48,890 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:58:48,891 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:58:48,897 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 11:58:48,898 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 11:58:48,905 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 11:58:48,905 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 11:58:48,910 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:58:48,911 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:58:48,913 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 11:58:48,914 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 11:58:48,916 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 11:58:48,917 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 11:58:48,919 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 11:58:48,920 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 11:58:50,442 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24132 > 35.190.80.1:https A / Raw
+2024-10-10 11:58:50,443 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 11:58:58,376 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24250 > 192.168.1.114:ms_do S
+2024-10-10 11:58:58,376 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.114 (Flags: S)
+2024-10-10 11:58:58,595 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 11:58:58,596 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 11:58:58,601 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 11:58:58,601 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 11:58:58,659 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24251 > 192.168.100.3:ms_do S
+2024-10-10 11:58:58,660 - INFO - Packet logged: 192.168.0.100 -> 192.168.100.3 (Flags: S)
+2024-10-10 11:58:58,664 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24252 > 192.168.1.101:ms_do S
+2024-10-10 11:58:58,664 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.101 (Flags: S)
+2024-10-10 11:58:58,985 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:58:58,986 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:58:58,993 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:58:58,994 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:58:58,998 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 11:58:58,999 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 11:58:59,019 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 11:58:59,022 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-10 11:59:24,028 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 12:02:47,481 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 12:02:48,820 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 12:02:48,820 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 12:02:48,826 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 12:02:48,827 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 12:02:49,135 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 12:02:49,135 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 12:02:49,138 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 12:02:49,138 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 12:02:49,146 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 PA / Raw
+2024-10-10 12:02:49,147 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 12:02:49,152 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https A
+2024-10-10 12:02:49,152 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 12:02:49,155 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 12:02:49,155 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 12:02:49,158 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 12:02:49,159 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 12:02:58,837 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24001 > 172.67.73.98:https PA / Raw
+2024-10-10 12:02:58,838 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 12:02:58,845 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:24001 A / Padding
+2024-10-10 12:02:58,845 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 12:02:59,272 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24328 > 192.168.100.8:ms_do S
+2024-10-10 12:02:59,273 - INFO - Packet logged: 192.168.0.100 -> 192.168.100.8 (Flags: S)
+2024-10-10 12:02:59,277 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24329 > 192.168.7.100:ms_do S
+2024-10-10 12:02:59,278 - INFO - Packet logged: 192.168.0.100 -> 192.168.7.100 (Flags: S)
+2024-10-10 12:03:00,273 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24328 > 192.168.100.8:ms_do S
+2024-10-10 12:03:00,274 - INFO - Packet logged: 192.168.0.100 -> 192.168.100.8 (Flags: S)
+2024-10-10 12:03:00,289 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24329 > 192.168.7.100:ms_do S
+2024-10-10 12:03:00,289 - INFO - Packet logged: 192.168.0.100 -> 192.168.7.100 (Flags: S)
+2024-10-10 12:03:00,642 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24318 > 20.199.120.85:https PA / Raw
+2024-10-10 12:03:00,642 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.85 (Flags: PA)
+2024-10-10 12:03:00,715 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24330 > 2.16.162.113:https S
+2024-10-10 12:03:00,716 - INFO - Packet logged: 192.168.0.100 -> 2.16.162.113 (Flags: S)
+2024-10-10 12:03:00,788 - DEBUG - Packet: Ether / IP / TCP 2.16.162.113:https > 192.168.0.100:24330 SA
+2024-10-10 12:03:00,788 - INFO - Packet logged: 2.16.162.113 -> 192.168.0.100 (Flags: SA)
+2024-10-10 12:03:00,805 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24330 > 2.16.162.113:https A
+2024-10-10 12:03:00,805 - INFO - Packet logged: 192.168.0.100 -> 2.16.162.113 (Flags: A)
+2024-10-10 12:03:00,822 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24330 > 2.16.162.113:https PA / Raw
+2024-10-10 12:03:00,822 - INFO - Packet logged: 192.168.0.100 -> 2.16.162.113 (Flags: PA)
+2024-10-10 12:03:00,840 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24203 > 196.202.177.98:https FA
+2024-10-10 12:03:00,841 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: FA)
+2024-10-10 12:03:00,885 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 12:03:00,894 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.1
+2024-10-10 12:03:10,988 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 12:11:33,979 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 12:11:35,983 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24397 > 35.190.80.1:https FA
+2024-10-10 12:11:35,983 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: FA)
+2024-10-10 12:11:35,988 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https S
+2024-10-10 12:11:35,989 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: S)
+2024-10-10 12:11:35,995 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:24397 FA
+2024-10-10 12:11:35,996 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: FA)
+2024-10-10 12:11:36,000 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24397 > 35.190.80.1:https A
+2024-10-10 12:11:36,000 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 12:11:36,072 - DEBUG - Packet: Ether / IP / TCP 13.89.179.13:https > 192.168.0.100:24391 RA
+2024-10-10 12:11:36,072 - INFO - Packet logged: 13.89.179.13 -> 192.168.0.100 (Flags: RA)
+2024-10-10 12:11:36,192 - DEBUG - Packet: Ether / IP / TCP 3.233.158.26:https > 192.168.0.100:24408 SA
+2024-10-10 12:11:36,193 - INFO - Packet logged: 3.233.158.26 -> 192.168.0.100 (Flags: SA)
+2024-10-10 12:11:36,203 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https A
+2024-10-10 12:11:36,204 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: A)
+2024-10-10 12:11:36,212 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https A / Raw
+2024-10-10 12:11:36,212 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: A)
+2024-10-10 12:11:36,217 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https PA / Raw
+2024-10-10 12:11:36,218 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: PA)
+2024-10-10 12:11:36,402 - DEBUG - Packet: Ether / IP / TCP 3.233.158.26:https > 192.168.0.100:24408 A
+2024-10-10 12:11:36,403 - INFO - Packet logged: 3.233.158.26 -> 192.168.0.100 (Flags: A)
+2024-10-10 12:11:36,411 - DEBUG - Packet: Ether / IP / TCP 3.233.158.26:https > 192.168.0.100:24408 A
+2024-10-10 12:11:36,412 - INFO - Packet logged: 3.233.158.26 -> 192.168.0.100 (Flags: A)
+2024-10-10 12:11:36,421 - DEBUG - Packet: Ether / IP / TCP 3.233.158.26:https > 192.168.0.100:24408 A / Raw
+2024-10-10 12:11:36,422 - INFO - Packet logged: 3.233.158.26 -> 192.168.0.100 (Flags: A)
+2024-10-10 12:11:36,429 - DEBUG - Packet: Ether / IP / TCP 3.233.158.26:https > 192.168.0.100:24408 PA / Raw
+2024-10-10 12:11:36,430 - INFO - Packet logged: 3.233.158.26 -> 192.168.0.100 (Flags: PA)
+2024-10-10 12:11:36,434 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https A
+2024-10-10 12:11:36,434 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: A)
+2024-10-10 12:11:36,438 - DEBUG - Packet: Ether / IP / TCP 3.233.158.26:https > 192.168.0.100:24408 PA / Raw
+2024-10-10 12:11:36,439 - INFO - Packet logged: 3.233.158.26 -> 192.168.0.100 (Flags: PA)
+2024-10-10 12:11:36,444 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https PA / Raw
+2024-10-10 12:11:36,445 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: PA)
+2024-10-10 12:11:36,448 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https PA / Raw
+2024-10-10 12:11:36,449 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: PA)
+2024-10-10 12:11:36,453 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https PA / Raw
+2024-10-10 12:11:36,453 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: PA)
+2024-10-10 12:11:36,456 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:24408 > 3.233.158.26:https PA / Raw
+2024-10-10 12:11:36,457 - INFO - Packet logged: 192.168.0.100 -> 3.233.158.26 (Flags: PA)
+2024-10-10 12:11:36,609 - DEBUG - Packet: Ether / IP / TCP 3.233.158.26:https > 192.168.0.100:24408 A / Padding
+2024-10-10 12:11:36,610 - INFO - Packet logged: 3.233.158.26 -> 192.168.0.100 (Flags: A)
+2024-10-10 12:11:36,644 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 12:11:36,647 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-10 12:11:56,625 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 14:18:35,780 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 14:18:38,365 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:18:38,367 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:18:38,624 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:18:38,624 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:18:38,728 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:18:38,729 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:18:38,740 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:18:38,740 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:18:38,744 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https A
+2024-10-10 14:18:38,744 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: A)
+2024-10-10 14:18:38,749 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:18:38,749 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:18:38,751 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:18:38,751 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:18:38,912 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:18:38,912 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:18:44,058 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9171 > 20.250.77.142:https A / Raw
+2024-10-10 14:18:44,059 - INFO - Packet logged: 192.168.1.68 -> 20.250.77.142 (Flags: A)
+2024-10-10 14:18:44,187 - DEBUG - Packet: Ether / IP / TCP 20.250.77.142:https > 192.168.1.68:9171 A
+2024-10-10 14:18:44,188 - INFO - Packet logged: 20.250.77.142 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:18:48,372 - DEBUG - Packet: Ether / IP / TCP 102.132.96.55:http > 192.168.1.68:9121 PA / Raw
+2024-10-10 14:18:48,372 - INFO - Packet logged: 102.132.96.55 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:18:48,379 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9121 > 102.132.96.55:http PA / Raw
+2024-10-10 14:18:48,379 - INFO - Packet logged: 192.168.1.68 -> 102.132.96.55 (Flags: PA)
+2024-10-10 14:18:48,383 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:18:48,383 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:18:48,389 - DEBUG - Packet: Ether / IP / TCP 102.132.96.55:http > 192.168.1.68:9121 A
+2024-10-10 14:18:48,389 - INFO - Packet logged: 102.132.96.55 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:18:48,565 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:18:48,566 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:18:48,703 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:18:48,703 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:18:48,709 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:18:48,709 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:18:48,713 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:18:48,713 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:18:48,716 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https A
+2024-10-10 14:18:48,716 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: A)
+2024-10-10 14:18:48,719 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:18:48,719 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:18:48,865 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 14:18:48,868 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml  192.168.1.68
+2024-10-10 14:18:54,660 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 14:20:53,448 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 14:20:58,584 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:20:58,585 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:20:58,747 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https PA / Raw
+2024-10-10 14:20:58,748 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: PA)
+2024-10-10 14:20:58,809 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:20:58,810 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:20:59,016 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:20:59,017 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:20:59,029 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:20:59,029 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:20:59,034 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:20:59,035 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:20:59,039 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https A
+2024-10-10 14:20:59,039 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: A)
+2024-10-10 14:20:59,042 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:20:59,042 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:20:59,201 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:20:59,202 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:20:59,346 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https PA / Raw
+2024-10-10 14:20:59,346 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: PA)
+2024-10-10 14:20:59,475 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9171 > 20.250.77.142:https A / Raw
+2024-10-10 14:20:59,475 - INFO - Packet logged: 192.168.1.68 -> 20.250.77.142 (Flags: A)
+2024-10-10 14:20:59,602 - DEBUG - Packet: Ether / IP / TCP 20.250.77.142:https > 192.168.1.68:9171 A
+2024-10-10 14:20:59,602 - INFO - Packet logged: 20.250.77.142 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:21:00,322 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https PA / Raw
+2024-10-10 14:21:00,322 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: PA)
+2024-10-10 14:21:01,226 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https A / Raw
+2024-10-10 14:21:01,227 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: A)
+2024-10-10 14:21:02,255 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https PA / Raw
+2024-10-10 14:21:02,255 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: PA)
+2024-10-10 14:21:04,237 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https A / Raw
+2024-10-10 14:21:04,238 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: A)
+2024-10-10 14:21:06,111 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https PA / Raw
+2024-10-10 14:21:06,111 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: PA)
+2024-10-10 14:21:07,242 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9210 > 20.199.120.151:https A / Raw
+2024-10-10 14:21:07,243 - INFO - Packet logged: 192.168.1.68 -> 20.199.120.151 (Flags: A)
+2024-10-10 14:21:07,635 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9153 > 35.190.80.1:https PA / Raw
+2024-10-10 14:21:07,637 - INFO - Packet logged: 192.168.1.68 -> 35.190.80.1 (Flags: PA)
+2024-10-10 14:21:07,644 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9153 > 35.190.80.1:https PA / Raw
+2024-10-10 14:21:07,644 - INFO - Packet logged: 192.168.1.68 -> 35.190.80.1 (Flags: PA)
+2024-10-10 14:21:07,667 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 14:21:07,670 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.1.68
+2024-10-10 14:21:37,773 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 14:58:31,882 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 14:58:40,924 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:58:40,925 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:58:41,110 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:58:41,111 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:58:41,276 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:58:41,277 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:58:41,287 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:58:41,288 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:58:41,294 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:58:41,295 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:58:41,299 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https A
+2024-10-10 14:58:41,299 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: A)
+2024-10-10 14:58:41,303 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:58:41,304 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:58:41,464 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:58:41,464 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:58:50,937 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:58:50,937 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:58:51,159 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:58:51,159 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:58:51,267 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:58:51,268 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:58:51,279 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:58:51,279 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:58:51,285 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 PA / Raw
+2024-10-10 14:58:51,285 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: PA)
+2024-10-10 14:58:51,288 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https A
+2024-10-10 14:58:51,289 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: A)
+2024-10-10 14:58:51,294 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9119 > 172.67.73.98:https PA / Raw
+2024-10-10 14:58:51,294 - INFO - Packet logged: 192.168.1.68 -> 172.67.73.98 (Flags: PA)
+2024-10-10 14:58:51,451 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.1.68:9119 A
+2024-10-10 14:58:51,452 - INFO - Packet logged: 172.67.73.98 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:58:51,679 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9392 > 216.58.223.99:https A / Raw
+2024-10-10 14:58:51,679 - INFO - Packet logged: 192.168.1.68 -> 216.58.223.99 (Flags: A)
+2024-10-10 14:58:51,692 - DEBUG - Packet: Ether / IP / TCP 216.58.223.99:https > 192.168.1.68:9392 A
+2024-10-10 14:58:51,693 - INFO - Packet logged: 216.58.223.99 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:58:53,246 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9153 > 35.190.80.1:https A / Raw
+2024-10-10 14:58:53,246 - INFO - Packet logged: 192.168.1.68 -> 35.190.80.1 (Flags: A)
+2024-10-10 14:58:53,261 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.1.68:9153 A
+2024-10-10 14:58:53,262 - INFO - Packet logged: 35.190.80.1 -> 192.168.1.68 (Flags: A)
+2024-10-10 14:58:53,281 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 14:58:53,284 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.1.254
+2024-10-10 15:00:26,843 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 16:00:16,239 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 16:00:17,703 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:17,704 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:18,041 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:18,042 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:18,373 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:18,373 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:19,033 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:19,034 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:20,349 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:20,350 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:21,147 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.1.68:9700 PA / Raw
+2024-10-10 16:00:21,149 - INFO - Packet logged: 104.26.6.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:00:21,160 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:21,160 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:23,348 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9701 > 204.79.197.203:https RA
+2024-10-10 16:00:23,349 - INFO - Packet logged: 192.168.1.68 -> 204.79.197.203 (Flags: RA)
+2024-10-10 16:00:24,823 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9692 > 64.233.167.188:5228 A / Raw
+2024-10-10 16:00:24,824 - INFO - Packet logged: 192.168.1.68 -> 64.233.167.188 (Flags: A)
+2024-10-10 16:00:24,963 - DEBUG - Packet: Ether / IP / TCP 64.233.167.188:5228 > 192.168.1.68:9692 A
+2024-10-10 16:00:24,964 - INFO - Packet logged: 64.233.167.188 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:00:26,357 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:26,358 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:26,553 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.1.68:9700 A
+2024-10-10 16:00:26,553 - INFO - Packet logged: 104.26.6.95 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:00:27,722 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:27,724 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:27,860 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.1.68:9700 A
+2024-10-10 16:00:27,860 - INFO - Packet logged: 104.26.6.95 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:00:27,982 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.1.68:9700 PA / Raw
+2024-10-10 16:00:27,984 - INFO - Packet logged: 104.26.6.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:00:27,994 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.1.68:9700 PA / Raw
+2024-10-10 16:00:27,994 - INFO - Packet logged: 104.26.6.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:00:27,998 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https A
+2024-10-10 16:00:27,998 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: A)
+2024-10-10 16:00:28,003 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:28,004 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:28,118 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.1.68:9700 A
+2024-10-10 16:00:28,119 - INFO - Packet logged: 104.26.6.95 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:00:37,740 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9700 > 104.26.6.95:https PA / Raw
+2024-10-10 16:00:37,741 - INFO - Packet logged: 192.168.1.68 -> 104.26.6.95 (Flags: PA)
+2024-10-10 16:00:37,766 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 16:00:37,768 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.1.254
+2024-10-10 16:02:09,457 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 16:51:32,279 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 16:51:41,385 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9912 > 104.26.7.95:https PA / Raw
+2024-10-10 16:51:41,386 - INFO - Packet logged: 192.168.1.68 -> 104.26.7.95 (Flags: PA)
+2024-10-10 16:51:41,522 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 A
+2024-10-10 16:51:41,523 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:51:41,656 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 PA / Raw
+2024-10-10 16:51:41,657 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:51:41,666 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 PA / Raw
+2024-10-10 16:51:41,666 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:51:41,672 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 PA / Raw
+2024-10-10 16:51:41,672 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:51:41,678 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9912 > 104.26.7.95:https A
+2024-10-10 16:51:41,679 - INFO - Packet logged: 192.168.1.68 -> 104.26.7.95 (Flags: A)
+2024-10-10 16:51:41,682 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9912 > 104.26.7.95:https PA / Raw
+2024-10-10 16:51:41,683 - INFO - Packet logged: 192.168.1.68 -> 104.26.7.95 (Flags: PA)
+2024-10-10 16:51:41,793 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 A
+2024-10-10 16:51:41,794 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:51:49,864 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9930 > 104.18.32.47:https A / Raw
+2024-10-10 16:51:49,864 - INFO - Packet logged: 192.168.1.68 -> 104.18.32.47 (Flags: A)
+2024-10-10 16:51:49,905 - DEBUG - Packet: Ether / IP / TCP 104.18.32.47:https > 192.168.1.68:9930 A
+2024-10-10 16:51:49,906 - INFO - Packet logged: 104.18.32.47 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:51:51,397 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9912 > 104.26.7.95:https PA / Raw
+2024-10-10 16:51:51,398 - INFO - Packet logged: 192.168.1.68 -> 104.26.7.95 (Flags: PA)
+2024-10-10 16:51:51,535 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 A
+2024-10-10 16:51:51,536 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:51:51,659 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 PA / Raw
+2024-10-10 16:51:51,660 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:51:51,670 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 PA / Raw
+2024-10-10 16:51:51,670 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:51:51,673 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 PA / Raw
+2024-10-10 16:51:51,674 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: PA)
+2024-10-10 16:51:51,676 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9912 > 104.26.7.95:https A
+2024-10-10 16:51:51,677 - INFO - Packet logged: 192.168.1.68 -> 104.26.7.95 (Flags: A)
+2024-10-10 16:51:51,680 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9912 > 104.26.7.95:https PA / Raw
+2024-10-10 16:51:51,680 - INFO - Packet logged: 192.168.1.68 -> 104.26.7.95 (Flags: PA)
+2024-10-10 16:51:51,807 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.1.68:9912 A
+2024-10-10 16:51:51,808 - INFO - Packet logged: 104.26.7.95 -> 192.168.1.68 (Flags: A)
+2024-10-10 16:51:54,119 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9692 > 64.233.167.188:5228 A / Raw
+2024-10-10 16:51:54,120 - INFO - Packet logged: 192.168.1.68 -> 64.233.167.188 (Flags: A)
+2024-10-10 16:51:54,196 - DEBUG - Packet: Ether / IP / TCP 192.168.1.68:9781 > 35.190.80.1:https A / Raw
+2024-10-10 16:51:54,197 - INFO - Packet logged: 192.168.1.68 -> 35.190.80.1 (Flags: A)
+2024-10-10 16:51:54,222 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 16:51:54,224 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.1.254
+2024-10-10 16:53:25,767 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 18:40:10,402 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 18:40:10,588 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60118 > 77.246.57.15:http PA / Raw
+2024-10-10 18:40:10,588 - INFO - Packet logged: 192.168.0.100 -> 77.246.57.15 (Flags: PA)
+2024-10-10 18:40:10,618 - DEBUG - Packet: Ether / IP / TCP 77.246.57.15:http > 192.168.0.100:60118 PA / Raw
+2024-10-10 18:40:10,619 - INFO - Packet logged: 77.246.57.15 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:40:10,660 - DEBUG - Packet: Ether / IP / TCP 77.246.57.15:http > 192.168.0.100:60118 A
+2024-10-10 18:40:10,660 - INFO - Packet logged: 77.246.57.15 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:40:10,666 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60118 > 77.246.57.15:http A
+2024-10-10 18:40:10,666 - INFO - Packet logged: 192.168.0.100 -> 77.246.57.15 (Flags: A)
+2024-10-10 18:40:13,363 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60035 > 20.199.120.151:https PA / Raw
+2024-10-10 18:40:13,363 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-10 18:40:13,673 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60035 > 20.199.120.151:https PA / Raw
+2024-10-10 18:40:13,673 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-10 18:40:13,983 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60035 > 20.199.120.151:https PA / Raw
+2024-10-10 18:40:13,983 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-10 18:40:14,591 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60035 > 20.199.120.151:https PA / Raw
+2024-10-10 18:40:14,592 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-10 18:40:15,801 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60035 > 20.199.120.151:https PA / Raw
+2024-10-10 18:40:15,801 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.151 (Flags: PA)
+2024-10-10 18:40:16,122 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60006 > 35.190.80.1:https PA / Raw
+2024-10-10 18:40:16,123 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 18:40:16,127 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60006 > 35.190.80.1:https PA / Raw
+2024-10-10 18:40:16,128 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 18:40:16,142 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60006 A / Padding
+2024-10-10 18:40:16,142 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:40:16,146 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60006 A / Padding
+2024-10-10 18:40:16,147 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:40:16,370 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60006 PA / Raw
+2024-10-10 18:40:16,370 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:40:16,374 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60006 > 35.190.80.1:https A
+2024-10-10 18:40:16,374 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 18:40:16,618 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60006 PA / Raw
+2024-10-10 18:40:16,619 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:40:16,622 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60006 > 35.190.80.1:https A
+2024-10-10 18:40:16,622 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 18:40:16,625 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60006 > 35.190.80.1:https PA / Raw
+2024-10-10 18:40:16,626 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 18:40:16,630 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60006 > 35.190.80.1:https PA / Raw
+2024-10-10 18:40:16,630 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 18:40:16,635 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60006 A / Padding
+2024-10-10 18:40:16,636 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:40:16,659 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 18:40:16,662 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.1.254
+2024-10-10 18:40:23,655 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 18:44:28,733 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 18:44:29,094 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60139 > 35.215.129.230:https A / Raw
+2024-10-10 18:44:29,095 - INFO - Packet logged: 192.168.0.100 -> 35.215.129.230 (Flags: A)
+2024-10-10 18:44:29,599 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60163 > 192.168.1.124:ms_do S
+2024-10-10 18:44:29,600 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.124 (Flags: S)
+2024-10-10 18:44:30,574 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60121 > 172.67.73.98:https PA / Raw
+2024-10-10 18:44:30,575 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 18:44:30,585 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60121 A / Padding
+2024-10-10 18:44:30,585 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:44:30,609 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60163 > 192.168.1.124:ms_do S
+2024-10-10 18:44:30,609 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.124 (Flags: S)
+2024-10-10 18:44:30,968 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60121 PA / Raw
+2024-10-10 18:44:30,970 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:44:30,978 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60121 PA / Raw
+2024-10-10 18:44:30,978 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:44:30,985 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60121 > 172.67.73.98:https A
+2024-10-10 18:44:30,986 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 18:44:30,990 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60121 PA / Raw
+2024-10-10 18:44:30,991 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:44:30,995 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60121 > 172.67.73.98:https PA / Raw
+2024-10-10 18:44:30,995 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 18:44:31,279 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60121 > 172.67.73.98:https PA / Raw
+2024-10-10 18:44:31,279 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 18:44:31,285 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60121 A
+2024-10-10 18:44:31,286 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:44:32,531 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60164 > 20.189.173.1:https S
+2024-10-10 18:44:32,532 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: S)
+2024-10-10 18:44:32,623 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60163 > 192.168.1.124:ms_do S
+2024-10-10 18:44:32,623 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.124 (Flags: S)
+2024-10-10 18:44:32,797 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60164 SA
+2024-10-10 18:44:32,797 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: SA)
+2024-10-10 18:44:32,801 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60164 > 20.189.173.1:https A
+2024-10-10 18:44:32,801 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 18:44:32,805 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60164 > 20.189.173.1:https PA / Raw
+2024-10-10 18:44:32,806 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: PA)
+2024-10-10 18:44:33,067 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60164 A / Raw
+2024-10-10 18:44:33,068 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:44:33,071 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60164 A / Raw
+2024-10-10 18:44:33,071 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:44:33,074 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60164 > 20.189.173.1:https A
+2024-10-10 18:44:33,075 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 18:44:33,099 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 18:44:33,102 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.101
+2024-10-10 18:44:43,187 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 18:50:18,290 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 18:50:22,615 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60030 > 66.102.1.188:5228 A / Raw
+2024-10-10 18:50:22,615 - INFO - Packet logged: 192.168.0.100 -> 66.102.1.188 (Flags: A)
+2024-10-10 18:50:22,751 - DEBUG - Packet: Ether / IP / TCP 66.102.1.188:5228 > 192.168.0.100:60030 A
+2024-10-10 18:50:22,752 - INFO - Packet logged: 66.102.1.188 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:50:24,622 - DEBUG - Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:60195 PA / Raw
+2024-10-10 18:50:24,622 - INFO - Packet logged: 196.202.177.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:50:24,630 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60195 > 196.202.177.98:https A
+2024-10-10 18:50:24,630 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: A)
+2024-10-10 18:50:28,508 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60206 > 192.229.221.95:http FA
+2024-10-10 18:50:28,508 - INFO - Packet logged: 192.168.0.100 -> 192.229.221.95 (Flags: FA)
+2024-10-10 18:50:28,514 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60205 > 172.217.170.195:http FA
+2024-10-10 18:50:28,514 - INFO - Packet logged: 192.168.0.100 -> 172.217.170.195 (Flags: FA)
+2024-10-10 18:50:28,520 - DEBUG - Packet: Ether / IP / TCP 172.217.170.195:http > 192.168.0.100:60205 FA
+2024-10-10 18:50:28,521 - INFO - Packet logged: 172.217.170.195 -> 192.168.0.100 (Flags: FA)
+2024-10-10 18:50:28,528 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60205 > 172.217.170.195:http A
+2024-10-10 18:50:28,528 - INFO - Packet logged: 192.168.0.100 -> 172.217.170.195 (Flags: A)
+2024-10-10 18:50:28,640 - DEBUG - Packet: Ether / IP / TCP 192.229.221.95:http > 192.168.0.100:60206 FA
+2024-10-10 18:50:28,641 - INFO - Packet logged: 192.229.221.95 -> 192.168.0.100 (Flags: FA)
+2024-10-10 18:50:28,647 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60206 > 192.229.221.95:http A
+2024-10-10 18:50:28,648 - INFO - Packet logged: 192.168.0.100 -> 192.229.221.95 (Flags: A)
+2024-10-10 18:50:28,918 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60184 > 20.250.77.142:https A / Raw
+2024-10-10 18:50:28,918 - INFO - Packet logged: 192.168.0.100 -> 20.250.77.142 (Flags: A)
+2024-10-10 18:50:29,045 - DEBUG - Packet: Ether / IP / TCP 20.250.77.142:https > 192.168.0.100:60184 A
+2024-10-10 18:50:29,046 - INFO - Packet logged: 20.250.77.142 -> 192.168.0.100 (Flags: A)
+2024-10-10 18:50:29,190 - DEBUG - Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:60195 PA / Raw
+2024-10-10 18:50:29,191 - INFO - Packet logged: 196.202.177.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 18:50:29,197 - DEBUG - Packet: Ether / IP / TCP 196.202.177.98:https > 192.168.0.100:60195 FA
+2024-10-10 18:50:29,198 - INFO - Packet logged: 196.202.177.98 -> 192.168.0.100 (Flags: FA)
+2024-10-10 18:50:29,205 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60195 > 196.202.177.98:https A
+2024-10-10 18:50:29,205 - INFO - Packet logged: 192.168.0.100 -> 196.202.177.98 (Flags: A)
+2024-10-10 18:50:31,540 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60212 > 192.168.1.101:ms_do S
+2024-10-10 18:50:31,541 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.101 (Flags: S)
+2024-10-10 18:50:32,543 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60212 > 192.168.1.101:ms_do S
+2024-10-10 18:50:32,544 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.101 (Flags: S)
+2024-10-10 18:50:34,558 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60212 > 192.168.1.101:ms_do S
+2024-10-10 18:50:34,558 - INFO - Packet logged: 192.168.0.100 -> 192.168.1.101 (Flags: S)
+2024-10-10 18:50:36,116 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60213 > 192.168.100.10:ms_do S
+2024-10-10 18:50:36,117 - INFO - Packet logged: 192.168.0.100 -> 192.168.100.10 (Flags: S)
+2024-10-10 18:50:37,132 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60213 > 192.168.100.10:ms_do S
+2024-10-10 18:50:37,133 - INFO - Packet logged: 192.168.0.100 -> 192.168.100.10 (Flags: S)
+2024-10-10 18:50:37,160 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 18:50:37,163 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.101
+2024-10-10 18:50:41,789 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 19:33:34,410 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 19:33:37,299 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60578 > 192.168.88.235:ms_do S
+2024-10-10 19:33:37,300 - INFO - Packet logged: 192.168.0.100 -> 192.168.88.235 (Flags: S)
+2024-10-10 19:33:38,386 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60567 > 52.113.194.132:https FA
+2024-10-10 19:33:38,387 - INFO - Packet logged: 192.168.0.100 -> 52.113.194.132 (Flags: FA)
+2024-10-10 19:33:38,687 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60567 > 52.113.194.132:https FA
+2024-10-10 19:33:38,687 - INFO - Packet logged: 192.168.0.100 -> 52.113.194.132 (Flags: FA)
+2024-10-10 19:33:39,295 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60567 > 52.113.194.132:https FA
+2024-10-10 19:33:39,296 - INFO - Packet logged: 192.168.0.100 -> 52.113.194.132 (Flags: FA)
+2024-10-10 19:33:39,391 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60543 > 172.67.73.98:https PA / Raw
+2024-10-10 19:33:39,392 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 19:33:39,403 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60543 > 172.67.73.98:https PA / Raw
+2024-10-10 19:33:39,403 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 19:33:39,425 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60543 R
+2024-10-10 19:33:39,425 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: R)
+2024-10-10 19:33:39,428 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60568 > 35.190.80.1:https FA
+2024-10-10 19:33:39,428 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: FA)
+2024-10-10 19:33:39,431 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https S
+2024-10-10 19:33:39,432 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: S)
+2024-10-10 19:33:39,435 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60579 SA
+2024-10-10 19:33:39,436 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: SA)
+2024-10-10 19:33:39,438 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https A
+2024-10-10 19:33:39,439 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 19:33:39,442 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https A / Raw
+2024-10-10 19:33:39,442 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 19:33:39,446 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https PA / Raw
+2024-10-10 19:33:39,446 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 19:33:39,450 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60568 FA
+2024-10-10 19:33:39,451 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: FA)
+2024-10-10 19:33:39,454 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60568 > 35.190.80.1:https A
+2024-10-10 19:33:39,454 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 19:33:39,457 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60579 A
+2024-10-10 19:33:39,457 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:33:39,460 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60579 A
+2024-10-10 19:33:39,460 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:33:39,463 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60579 PA / Raw
+2024-10-10 19:33:39,463 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:33:39,467 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https PA / Raw
+2024-10-10 19:33:39,467 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 19:33:39,470 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https PA / Raw
+2024-10-10 19:33:39,470 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 19:33:39,486 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 19:33:39,488 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.101
+2024-10-10 19:33:44,396 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 19:35:14,063 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 19:35:16,565 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60554 > 35.190.80.1:https PA / Raw
+2024-10-10 19:35:16,566 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 19:35:16,576 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60554 > 35.190.80.1:https PA / Raw
+2024-10-10 19:35:16,576 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 19:35:16,582 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60554 A / Padding
+2024-10-10 19:35:16,582 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:35:16,586 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60554 A / Padding
+2024-10-10 19:35:16,587 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:35:16,803 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60554 PA / Raw
+2024-10-10 19:35:16,803 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:35:16,806 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60554 > 35.190.80.1:https A
+2024-10-10 19:35:16,807 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 19:35:17,041 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60554 PA / Raw
+2024-10-10 19:35:17,042 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:35:17,044 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60554 > 35.190.80.1:https A
+2024-10-10 19:35:17,045 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 19:35:17,048 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60554 > 35.190.80.1:https PA / Raw
+2024-10-10 19:35:17,048 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 19:35:17,052 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60554 > 35.190.80.1:https PA / Raw
+2024-10-10 19:35:17,052 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: PA)
+2024-10-10 19:35:17,056 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:60554 A / Padding
+2024-10-10 19:35:17,056 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:35:18,442 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60438 > 20.199.120.182:https PA / Raw
+2024-10-10 19:35:18,443 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: PA)
+2024-10-10 19:35:18,567 - DEBUG - Packet: Ether / IP / TCP 20.199.120.182:https > 192.168.0.100:60438 PA / Raw
+2024-10-10 19:35:18,567 - INFO - Packet logged: 20.199.120.182 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:35:18,611 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60438 > 20.199.120.182:https A
+2024-10-10 19:35:18,612 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: A)
+2024-10-10 19:35:18,819 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60577 > 2.16.162.110:https FA
+2024-10-10 19:35:18,820 - INFO - Packet logged: 192.168.0.100 -> 2.16.162.110 (Flags: FA)
+2024-10-10 19:35:19,134 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60577 > 2.16.162.110:https FA
+2024-10-10 19:35:19,134 - INFO - Packet logged: 192.168.0.100 -> 2.16.162.110 (Flags: FA)
+2024-10-10 19:35:19,216 - DEBUG - Packet: Ether / IP / TCP 2.16.162.110:https > 192.168.0.100:60577 PA / Raw
+2024-10-10 19:35:19,216 - INFO - Packet logged: 2.16.162.110 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:35:19,223 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60577 > 2.16.162.110:https RA
+2024-10-10 19:35:19,223 - INFO - Packet logged: 192.168.0.100 -> 2.16.162.110 (Flags: RA)
+2024-10-10 19:35:19,849 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https PA / Raw
+2024-10-10 19:35:19,850 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 19:35:20,165 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60579 > 172.67.73.98:https PA / Raw
+2024-10-10 19:35:20,166 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 19:35:20,185 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 19:35:20,187 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.101
+2024-10-10 19:35:24,418 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 19:44:52,276 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 19:44:52,439 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60692 > 192.168.2.100:ms_do S
+2024-10-10 19:44:52,439 - INFO - Packet logged: 192.168.0.100 -> 192.168.2.100 (Flags: S)
+2024-10-10 19:44:53,681 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https S
+2024-10-10 19:44:53,682 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: S)
+2024-10-10 19:44:53,950 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 SA
+2024-10-10 19:44:53,950 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: SA)
+2024-10-10 19:44:53,958 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https A
+2024-10-10 19:44:53,958 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 19:44:53,964 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https PA / Raw
+2024-10-10 19:44:53,965 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: PA)
+2024-10-10 19:44:54,221 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 A / Raw
+2024-10-10 19:44:54,221 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:44:54,224 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https A
+2024-10-10 19:44:54,225 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 19:44:55,369 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 A / Raw
+2024-10-10 19:44:55,370 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:44:55,377 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https A
+2024-10-10 19:44:55,377 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 19:44:56,431 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 A / Raw
+2024-10-10 19:44:56,431 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:44:56,436 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https A
+2024-10-10 19:44:56,436 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 19:44:57,491 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 A / Raw
+2024-10-10 19:44:57,491 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:44:57,498 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https A
+2024-10-10 19:44:57,499 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 19:44:57,703 - DEBUG - Packet: Ether / IP / TCP 13.107.21.239:https > 192.168.0.100:60667 RA
+2024-10-10 19:44:57,703 - INFO - Packet logged: 13.107.21.239 -> 192.168.0.100 (Flags: RA)
+2024-10-10 19:44:57,768 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 PA / Raw
+2024-10-10 19:44:57,769 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:44:57,775 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https A
+2024-10-10 19:44:57,776 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: A)
+2024-10-10 19:44:57,785 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https PA / Raw
+2024-10-10 19:44:57,785 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: PA)
+2024-10-10 19:44:58,391 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60693 > 20.189.173.1:https PA / Raw
+2024-10-10 19:44:58,392 - INFO - Packet logged: 192.168.0.100 -> 20.189.173.1 (Flags: PA)
+2024-10-10 19:44:58,659 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 A
+2024-10-10 19:44:58,659 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:45:00,414 - DEBUG - Packet: Ether / IP / TCP 20.189.173.1:https > 192.168.0.100:60693 PA / Raw
+2024-10-10 19:45:00,415 - INFO - Packet logged: 20.189.173.1 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:45:00,432 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 19:45:00,435 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.101
+2024-10-10 19:45:07,462 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 19:53:53,115 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 19:53:53,448 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https PA / Raw
+2024-10-10 19:53:53,448 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-10 19:53:53,859 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 PA / Raw
+2024-10-10 19:53:53,859 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:53:53,903 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https A
+2024-10-10 19:53:53,903 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-10 19:53:53,915 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 PA / Raw
+2024-10-10 19:53:53,915 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:53:53,921 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https A
+2024-10-10 19:53:53,921 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-10 19:53:53,926 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 PA / Raw
+2024-10-10 19:53:53,927 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:53:53,931 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https A
+2024-10-10 19:53:53,931 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-10 19:53:53,935 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https PA / Raw
+2024-10-10 19:53:53,936 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-10 19:53:53,939 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 A / Padding
+2024-10-10 19:53:53,940 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:53:55,651 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60732 > 104.18.32.47:https A / Raw
+2024-10-10 19:53:55,651 - INFO - Packet logged: 192.168.0.100 -> 104.18.32.47 (Flags: A)
+2024-10-10 19:53:55,656 - DEBUG - Packet: Ether / IP / TCP 104.18.32.47:https > 192.168.0.100:60732 A
+2024-10-10 19:53:55,657 - INFO - Packet logged: 104.18.32.47 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:53:58,775 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60751 > 74.125.133.188:5228 A / Raw
+2024-10-10 19:53:58,776 - INFO - Packet logged: 192.168.0.100 -> 74.125.133.188 (Flags: A)
+2024-10-10 19:54:01,355 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https PA / Raw
+2024-10-10 19:54:01,357 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-10 19:54:01,370 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 A / Padding
+2024-10-10 19:54:01,371 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:54:01,756 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 PA / Raw
+2024-10-10 19:54:01,757 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:54:01,763 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 PA / Raw
+2024-10-10 19:54:01,763 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-10 19:54:01,768 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https A
+2024-10-10 19:54:01,768 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-10 19:54:01,773 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60750 > 104.26.7.95:https PA / Raw
+2024-10-10 19:54:01,774 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-10 19:54:01,779 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60750 A / Padding
+2024-10-10 19:54:01,780 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-10 19:54:01,978 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60554 > 35.190.80.1:https A / Raw
+2024-10-10 19:54:01,978 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 19:54:01,996 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 19:54:01,998 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.101
+2024-10-10 19:54:05,278 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 20:11:28,014 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 20:11:29,992 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60872 > 20.250.77.142:https A / Raw
+2024-10-10 20:11:29,993 - INFO - Packet logged: 192.168.0.100 -> 20.250.77.142 (Flags: A)
+2024-10-10 20:11:30,114 - DEBUG - Packet: Ether / IP / TCP 20.250.77.142:https > 192.168.0.100:60872 A
+2024-10-10 20:11:30,115 - INFO - Packet logged: 20.250.77.142 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:11:33,086 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https PA / Raw
+2024-10-10 20:11:33,087 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 20:11:33,410 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https PA / Raw
+2024-10-10 20:11:33,411 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 20:11:33,423 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 A
+2024-10-10 20:11:33,424 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:11:33,487 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 PA / Raw
+2024-10-10 20:11:33,488 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:11:33,494 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 PA / Raw
+2024-10-10 20:11:33,494 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:11:33,499 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https A
+2024-10-10 20:11:33,500 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 20:11:33,506 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 PA / Raw
+2024-10-10 20:11:33,507 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:11:33,512 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https PA / Raw
+2024-10-10 20:11:33,513 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 20:11:34,458 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https PA / Raw
+2024-10-10 20:11:34,458 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 20:11:34,463 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 A
+2024-10-10 20:11:34,463 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:11:34,648 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60893 > 104.18.32.47:https A / Raw
+2024-10-10 20:11:34,648 - INFO - Packet logged: 192.168.0.100 -> 104.18.32.47 (Flags: A)
+2024-10-10 20:11:35,167 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60894 > 192.168.2.101:ms_do S
+2024-10-10 20:11:35,167 - INFO - Packet logged: 192.168.0.100 -> 192.168.2.101 (Flags: S)
+2024-10-10 20:11:43,108 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https PA / Raw
+2024-10-10 20:11:43,109 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: PA)
+2024-10-10 20:11:43,118 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 A / Padding
+2024-10-10 20:11:43,118 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:11:43,465 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 PA / Raw
+2024-10-10 20:11:43,466 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:11:43,472 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https A
+2024-10-10 20:11:43,472 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 20:11:43,482 - DEBUG - Packet: Ether / IP / TCP 172.67.73.98:https > 192.168.0.100:60889 PA / Raw
+2024-10-10 20:11:43,483 - INFO - Packet logged: 172.67.73.98 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:11:43,487 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60889 > 172.67.73.98:https A
+2024-10-10 20:11:43,487 - INFO - Packet logged: 192.168.0.100 -> 172.67.73.98 (Flags: A)
+2024-10-10 20:11:43,509 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 20:11:43,512 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.101
+2024-10-10 20:11:48,893 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 20:38:01,762 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 20:38:02,229 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61092 > 35.190.80.1:https A / Raw
+2024-10-10 20:38:02,230 - INFO - Packet logged: 192.168.0.100 -> 35.190.80.1 (Flags: A)
+2024-10-10 20:38:02,479 - DEBUG - Packet: Ether / IP / TCP 35.190.80.1:https > 192.168.0.100:61092 A
+2024-10-10 20:38:02,480 - INFO - Packet logged: 35.190.80.1 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:38:04,968 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61094 > 102.132.96.55:http FA
+2024-10-10 20:38:04,968 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.55 (Flags: FA)
+2024-10-10 20:38:06,244 - DEBUG - Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:61105 PA / Raw
+2024-10-10 20:38:06,245 - INFO - Packet logged: 102.132.96.54 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:38:06,248 - DEBUG - Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:61105 FA
+2024-10-10 20:38:06,249 - INFO - Packet logged: 102.132.96.54 -> 192.168.0.100 (Flags: FA)
+2024-10-10 20:38:06,251 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61105 > 102.132.96.54:https A
+2024-10-10 20:38:06,252 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: A)
+2024-10-10 20:38:06,254 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61105 > 102.132.96.54:https FA
+2024-10-10 20:38:06,254 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-10 20:38:06,476 - DEBUG - Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:61104 PA / Raw
+2024-10-10 20:38:06,477 - INFO - Packet logged: 102.132.96.54 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:38:06,483 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61104 > 102.132.96.54:https A
+2024-10-10 20:38:06,484 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: A)
+2024-10-10 20:38:06,495 - DEBUG - Packet: Ether / IP / TCP 102.132.104.60:https > 192.168.0.100:61106 PA / Raw
+2024-10-10 20:38:06,496 - INFO - Packet logged: 102.132.104.60 -> 192.168.0.100 (Flags: PA)
+2024-10-10 20:38:06,499 - DEBUG - Packet: Ether / IP / TCP 102.132.104.60:https > 192.168.0.100:61106 FA
+2024-10-10 20:38:06,499 - INFO - Packet logged: 102.132.104.60 -> 192.168.0.100 (Flags: FA)
+2024-10-10 20:38:06,502 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61106 > 102.132.104.60:https A
+2024-10-10 20:38:06,502 - INFO - Packet logged: 192.168.0.100 -> 102.132.104.60 (Flags: A)
+2024-10-10 20:38:06,505 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61106 > 102.132.104.60:https FA
+2024-10-10 20:38:06,505 - INFO - Packet logged: 192.168.0.100 -> 102.132.104.60 (Flags: FA)
+2024-10-10 20:38:06,558 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61105 > 102.132.96.54:https FA
+2024-10-10 20:38:06,558 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-10 20:38:06,575 - DEBUG - Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:61105 A / Padding
+2024-10-10 20:38:06,575 - INFO - Packet logged: 102.132.96.54 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:38:06,578 - DEBUG - Packet: Ether / IP / TCP 102.132.104.60:https > 192.168.0.100:61106 A / Padding
+2024-10-10 20:38:06,579 - INFO - Packet logged: 102.132.104.60 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:38:06,715 - DEBUG - Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:61104 FA
+2024-10-10 20:38:06,716 - INFO - Packet logged: 102.132.96.54 -> 192.168.0.100 (Flags: FA)
+2024-10-10 20:38:06,722 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61104 > 102.132.96.54:https A
+2024-10-10 20:38:06,723 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: A)
+2024-10-10 20:38:06,728 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:61104 > 102.132.96.54:https FA
+2024-10-10 20:38:06,729 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.54 (Flags: FA)
+2024-10-10 20:38:06,735 - DEBUG - Packet: Ether / IP / TCP 102.132.96.54:https > 192.168.0.100:61104 A / Padding
+2024-10-10 20:38:06,735 - INFO - Packet logged: 102.132.96.54 -> 192.168.0.100 (Flags: A)
+2024-10-10 20:38:07,192 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 20:38:07,196 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-10 20:38:31,113 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-10 21:07:10,297 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-10 21:07:10,810 - DEBUG - Packet: Ether / IP / TCP 102.132.96.55:https > 192.168.0.100:60951 A / Raw
+2024-10-10 21:07:10,811 - INFO - Packet logged: 102.132.96.55 -> 192.168.0.100 (Flags: A)
+2024-10-10 21:07:10,821 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60951 > 102.132.96.55:https A
+2024-10-10 21:07:10,822 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.55 (Flags: A)
+2024-10-10 21:07:10,923 - DEBUG - Packet: Ether / IP / TCP 20.42.65.84:https > 192.168.0.100:60966 PA / Raw
+2024-10-10 21:07:10,923 - INFO - Packet logged: 20.42.65.84 -> 192.168.0.100 (Flags: PA)
+2024-10-10 21:07:10,929 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60966 > 20.42.65.84:https A
+2024-10-10 21:07:10,930 - INFO - Packet logged: 192.168.0.100 -> 20.42.65.84 (Flags: A)
+2024-10-10 21:07:11,110 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60951 > 102.132.96.55:https PA / Raw
+2024-10-10 21:07:11,111 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.55 (Flags: PA)
+2024-10-10 21:07:11,125 - DEBUG - Packet: Ether / IP / TCP 102.132.96.55:https > 192.168.0.100:60951 A / Padding
+2024-10-10 21:07:11,125 - INFO - Packet logged: 102.132.96.55 -> 192.168.0.100 (Flags: A)
+2024-10-10 21:07:11,135 - DEBUG - Packet: Ether / IP / TCP 20.42.65.84:https > 192.168.0.100:60966 A / Raw
+2024-10-10 21:07:11,136 - INFO - Packet logged: 20.42.65.84 -> 192.168.0.100 (Flags: A)
+2024-10-10 21:07:11,141 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60966 > 20.42.65.84:https A
+2024-10-10 21:07:11,141 - INFO - Packet logged: 192.168.0.100 -> 20.42.65.84 (Flags: A)
+2024-10-10 21:07:11,156 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60966 > 20.42.65.84:https PA / Raw
+2024-10-10 21:07:11,156 - INFO - Packet logged: 192.168.0.100 -> 20.42.65.84 (Flags: PA)
+2024-10-10 21:07:11,273 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60961 > 104.26.7.95:https PA / Raw
+2024-10-10 21:07:11,274 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-10 21:07:11,283 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60961 A / Padding
+2024-10-10 21:07:11,283 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-10 21:07:11,362 - DEBUG - Packet: Ether / IP / TCP 20.42.65.84:https > 192.168.0.100:60966 PA / Raw
+2024-10-10 21:07:11,363 - INFO - Packet logged: 20.42.65.84 -> 192.168.0.100 (Flags: PA)
+2024-10-10 21:07:11,367 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60966 > 20.42.65.84:https A
+2024-10-10 21:07:11,367 - INFO - Packet logged: 192.168.0.100 -> 20.42.65.84 (Flags: A)
+2024-10-10 21:07:11,371 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60966 > 20.42.65.84:https PA / Raw
+2024-10-10 21:07:11,371 - INFO - Packet logged: 192.168.0.100 -> 20.42.65.84 (Flags: PA)
+2024-10-10 21:07:11,376 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60966 > 20.42.65.84:https PA / Raw
+2024-10-10 21:07:11,377 - INFO - Packet logged: 192.168.0.100 -> 20.42.65.84 (Flags: PA)
+2024-10-10 21:07:11,582 - DEBUG - Packet: Ether / IP / TCP 20.42.65.84:https > 192.168.0.100:60966 PA / Raw
+2024-10-10 21:07:11,584 - INFO - Packet logged: 20.42.65.84 -> 192.168.0.100 (Flags: PA)
+2024-10-10 21:07:11,596 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60966 > 20.42.65.84:https A
+2024-10-10 21:07:11,597 - INFO - Packet logged: 192.168.0.100 -> 20.42.65.84 (Flags: A)
+2024-10-10 21:07:11,681 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60961 PA / Raw
+2024-10-10 21:07:11,683 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-10 21:07:11,721 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:60961 > 104.26.7.95:https A
+2024-10-10 21:07:11,722 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-10 21:07:11,815 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:60961 PA / Raw
+2024-10-10 21:07:11,816 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-10 21:07:11,844 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-10 21:07:11,847 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-10 21:07:32,071 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-11 07:44:04,379 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-11 07:44:07,354 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43369 > 204.79.197.203:https RA
+2024-10-11 07:44:07,355 - INFO - Packet logged: 192.168.0.100 -> 204.79.197.203 (Flags: RA)
+2024-10-11 07:44:10,238 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https S
+2024-10-11 07:44:10,238 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: S)
+2024-10-11 07:44:10,494 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43384 > 104.26.7.95:https S
+2024-10-11 07:44:10,495 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: S)
+2024-10-11 07:44:11,254 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https S
+2024-10-11 07:44:11,254 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: S)
+2024-10-11 07:44:11,259 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:43383 SA
+2024-10-11 07:44:11,259 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: SA)
+2024-10-11 07:44:11,264 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https A
+2024-10-11 07:44:11,265 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-11 07:44:11,267 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https A / Raw
+2024-10-11 07:44:11,267 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-11 07:44:11,271 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https PA / Raw
+2024-10-11 07:44:11,273 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-11 07:44:11,275 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:43383 A
+2024-10-11 07:44:11,276 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-11 07:44:11,280 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:43383 PA / Raw
+2024-10-11 07:44:11,280 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 07:44:11,284 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https PA / Raw
+2024-10-11 07:44:11,284 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-11 07:44:11,288 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https PA / Raw
+2024-10-11 07:44:11,288 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-11 07:44:11,291 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https PA / Raw
+2024-10-11 07:44:11,292 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-11 07:44:11,295 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:43383 PA / Raw
+2024-10-11 07:44:11,296 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 07:44:11,300 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:43383 PA / Raw
+2024-10-11 07:44:11,300 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 07:44:11,303 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https A
+2024-10-11 07:44:11,303 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-11 07:44:11,309 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43383 > 104.26.7.95:https PA / Raw
+2024-10-11 07:44:11,309 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-11 07:44:11,314 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:43383 A / Padding
+2024-10-11 07:44:11,314 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-11 07:44:11,503 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43384 > 104.26.7.95:https S
+2024-10-11 07:44:11,504 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: S)
+2024-10-11 07:44:11,511 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:43384 SA
+2024-10-11 07:44:11,511 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: SA)
+2024-10-11 07:44:12,046 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-11 07:44:12,082 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-11 07:44:37,655 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-11 09:15:16,778 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-11 09:15:16,807 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43842 > 104.26.6.95:https PA / Raw
+2024-10-11 09:15:16,807 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-11 09:15:17,077 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 A / Padding
+2024-10-11 09:15:17,077 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: A)
+2024-10-11 09:15:17,147 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 PA / Raw
+2024-10-11 09:15:17,148 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 09:15:17,153 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 PA / Raw
+2024-10-11 09:15:17,153 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 09:15:17,157 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43842 > 104.26.6.95:https A
+2024-10-11 09:15:17,157 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: A)
+2024-10-11 09:15:17,160 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 PA / Raw
+2024-10-11 09:15:17,160 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 09:15:17,165 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43842 > 104.26.6.95:https PA / Raw
+2024-10-11 09:15:17,165 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-11 09:15:17,168 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 A / Padding
+2024-10-11 09:15:17,168 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: A)
+2024-10-11 09:15:21,384 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:44011 > 20.250.77.142:https A / Raw
+2024-10-11 09:15:21,384 - INFO - Packet logged: 192.168.0.100 -> 20.250.77.142 (Flags: A)
+2024-10-11 09:15:21,542 - DEBUG - Packet: Ether / IP / TCP 20.250.77.142:https > 192.168.0.100:44011 A
+2024-10-11 09:15:21,544 - INFO - Packet logged: 20.250.77.142 -> 192.168.0.100 (Flags: A)
+2024-10-11 09:15:23,223 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43370 > 74.125.206.188:5228 A / Raw
+2024-10-11 09:15:23,224 - INFO - Packet logged: 192.168.0.100 -> 74.125.206.188 (Flags: A)
+2024-10-11 09:15:23,384 - DEBUG - Packet: Ether / IP / TCP 74.125.206.188:5228 > 192.168.0.100:43370 A
+2024-10-11 09:15:23,385 - INFO - Packet logged: 74.125.206.188 -> 192.168.0.100 (Flags: A)
+2024-10-11 09:15:26,827 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43842 > 104.26.6.95:https PA / Raw
+2024-10-11 09:15:26,827 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-11 09:15:26,970 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 A / Padding
+2024-10-11 09:15:26,970 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: A)
+2024-10-11 09:15:27,278 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 PA / Raw
+2024-10-11 09:15:27,279 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 09:15:27,291 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 PA / Raw
+2024-10-11 09:15:27,292 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 09:15:27,296 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43842 > 104.26.6.95:https A
+2024-10-11 09:15:27,296 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: A)
+2024-10-11 09:15:27,300 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 PA / Raw
+2024-10-11 09:15:27,300 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 09:15:27,304 - DEBUG - Packet: Ether / IP / TCP 104.26.6.95:https > 192.168.0.100:43842 PA / Raw
+2024-10-11 09:15:27,305 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-11 09:15:27,308 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:43842 > 104.26.6.95:https A
+2024-10-11 09:15:27,308 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: A)
+2024-10-11 09:15:27,480 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-11 09:15:27,484 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-11 09:15:45,919 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-11 14:37:37,171 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-11 14:37:37,240 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 A / Raw
+2024-10-11 14:37:37,240 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,353 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46398 > 102.132.96.55:https RA
+2024-10-11 14:37:37,353 - INFO - Packet logged: 192.168.0.100 -> 102.132.96.55 (Flags: RA)
+2024-10-11 14:37:37,357 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46395 > 199.232.210.172:http A
+2024-10-11 14:37:37,357 - INFO - Packet logged: 192.168.0.100 -> 199.232.210.172 (Flags: A)
+2024-10-11 14:37:37,417 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 A / Raw
+2024-10-11 14:37:37,417 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,422 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 PA / Raw
+2024-10-11 14:37:37,422 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: PA)
+2024-10-11 14:37:37,425 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46395 > 199.232.210.172:http A
+2024-10-11 14:37:37,426 - INFO - Packet logged: 192.168.0.100 -> 199.232.210.172 (Flags: A)
+2024-10-11 14:37:37,437 - DEBUG - Packet: Ether / IP / TCP 199.232.214.172:http > 192.168.0.100:46396 A / Raw
+2024-10-11 14:37:37,437 - INFO - Packet logged: 199.232.214.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,441 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46396 > 199.232.214.172:http A
+2024-10-11 14:37:37,441 - INFO - Packet logged: 192.168.0.100 -> 199.232.214.172 (Flags: A)
+2024-10-11 14:37:37,554 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 A / Raw
+2024-10-11 14:37:37,554 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,558 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 PA / Raw
+2024-10-11 14:37:37,559 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: PA)
+2024-10-11 14:37:37,564 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46395 > 199.232.210.172:http A
+2024-10-11 14:37:37,564 - INFO - Packet logged: 192.168.0.100 -> 199.232.210.172 (Flags: A)
+2024-10-11 14:37:37,680 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 A / Raw
+2024-10-11 14:37:37,680 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,710 - DEBUG - Packet: Ether / IP / TCP 199.232.214.172:http > 192.168.0.100:46396 A / Raw
+2024-10-11 14:37:37,711 - INFO - Packet logged: 199.232.214.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,713 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46396 > 199.232.214.172:http A
+2024-10-11 14:37:37,714 - INFO - Packet logged: 192.168.0.100 -> 199.232.214.172 (Flags: A)
+2024-10-11 14:37:37,732 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46395 > 199.232.210.172:http A
+2024-10-11 14:37:37,732 - INFO - Packet logged: 192.168.0.100 -> 199.232.210.172 (Flags: A)
+2024-10-11 14:37:37,814 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 A / Raw
+2024-10-11 14:37:37,815 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,818 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46395 > 199.232.210.172:http A
+2024-10-11 14:37:37,818 - INFO - Packet logged: 192.168.0.100 -> 199.232.210.172 (Flags: A)
+2024-10-11 14:37:37,984 - DEBUG - Packet: Ether / IP / TCP 199.232.214.172:http > 192.168.0.100:46396 A / Raw
+2024-10-11 14:37:37,985 - INFO - Packet logged: 199.232.214.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:37,993 - DEBUG - Packet: Ether / IP / TCP 199.232.210.172:http > 192.168.0.100:46395 A / Raw
+2024-10-11 14:37:37,993 - INFO - Packet logged: 199.232.210.172 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:37:38,001 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46395 > 199.232.210.172:http A
+2024-10-11 14:37:38,002 - INFO - Packet logged: 192.168.0.100 -> 199.232.210.172 (Flags: A)
+2024-10-11 14:37:38,231 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-11 14:37:38,234 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 74.125.206.188
+2024-10-11 14:38:49,773 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-11 14:52:42,060 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-11 14:52:42,958 - DEBUG - Packet: Ether / IP / TCP 170.114.52.2:https > 192.168.0.100:46510 A / Padding
+2024-10-11 14:52:42,959 - INFO - Packet logged: 170.114.52.2 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:52:42,999 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46510 > 170.114.52.2:https A
+2024-10-11 14:52:42,999 - INFO - Packet logged: 192.168.0.100 -> 170.114.52.2 (Flags: A)
+2024-10-11 14:52:46,198 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https PA / Raw
+2024-10-11 14:52:46,199 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: PA)
+2024-10-11 14:52:46,205 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https PA / Raw
+2024-10-11 14:52:46,206 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: PA)
+2024-10-11 14:52:46,212 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https PA / Raw
+2024-10-11 14:52:46,212 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: PA)
+2024-10-11 14:52:46,222 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https PA / Raw
+2024-10-11 14:52:46,223 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: PA)
+2024-10-11 14:52:46,229 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https PA / Raw
+2024-10-11 14:52:46,229 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: PA)
+2024-10-11 14:52:46,384 - DEBUG - Packet: Ether / IP / TCP 46.32.182.121:https > 192.168.0.100:46653 A / Padding
+2024-10-11 14:52:46,385 - INFO - Packet logged: 46.32.182.121 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:52:46,391 - DEBUG - Packet: Ether / IP / TCP 46.32.182.121:https > 192.168.0.100:46653 A / Padding
+2024-10-11 14:52:46,391 - INFO - Packet logged: 46.32.182.121 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:52:46,399 - DEBUG - Packet: Ether / IP / TCP 46.32.182.121:https > 192.168.0.100:46653 A / Padding
+2024-10-11 14:52:46,400 - INFO - Packet logged: 46.32.182.121 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:52:46,407 - DEBUG - Packet: Ether / IP / TCP 46.32.182.121:https > 192.168.0.100:46653 PA / Raw
+2024-10-11 14:52:46,407 - INFO - Packet logged: 46.32.182.121 -> 192.168.0.100 (Flags: PA)
+2024-10-11 14:52:46,417 - DEBUG - Packet: Ether / IP / TCP 46.32.182.121:https > 192.168.0.100:46653 PA / Raw
+2024-10-11 14:52:46,418 - INFO - Packet logged: 46.32.182.121 -> 192.168.0.100 (Flags: PA)
+2024-10-11 14:52:46,427 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https A
+2024-10-11 14:52:46,428 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: A)
+2024-10-11 14:52:47,765 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46650 > 104.26.7.95:https PA / Raw
+2024-10-11 14:52:47,766 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-11 14:52:47,773 - DEBUG - Packet: Ether / IP / TCP 104.26.7.95:https > 192.168.0.100:46650 A / Padding
+2024-10-11 14:52:47,774 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:52:47,968 - DEBUG - Packet: Ether / IP / TCP 46.32.182.121:https > 192.168.0.100:46653 PA / Raw
+2024-10-11 14:52:47,968 - INFO - Packet logged: 46.32.182.121 -> 192.168.0.100 (Flags: PA)
+2024-10-11 14:52:47,974 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https A
+2024-10-11 14:52:47,974 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: A)
+2024-10-11 14:52:47,979 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https PA / Raw
+2024-10-11 14:52:47,979 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: PA)
+2024-10-11 14:52:47,983 - DEBUG - Packet: Ether / IP / TCP 192.168.0.100:46653 > 46.32.182.121:https PA / Raw
+2024-10-11 14:52:47,983 - INFO - Packet logged: 192.168.0.100 -> 46.32.182.121 (Flags: PA)
+2024-10-11 14:52:48,135 - DEBUG - Packet: Ether / IP / TCP 46.32.182.121:https > 192.168.0.100:46653 A / Padding
+2024-10-11 14:52:48,136 - INFO - Packet logged: 46.32.182.121 -> 192.168.0.100 (Flags: A)
+2024-10-11 14:52:48,250 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-11 14:52:48,253 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-11 14:53:06,946 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-12 17:56:01,947 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-12 17:56:07,754 - INFO - Packet logged: 192.168.0.100 -> 74.125.71.188 (Flags: A)
+2024-10-12 17:56:07,889 - INFO - Packet logged: 74.125.71.188 -> 192.168.0.100 (Flags: A)
+2024-10-12 17:56:08,725 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-12 17:56:08,734 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: A)
+2024-10-12 17:56:09,144 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 17:56:09,149 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 17:56:09,152 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: A)
+2024-10-12 17:56:09,156 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 17:56:09,158 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-12 17:56:09,161 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: A)
+2024-10-12 17:56:10,065 - INFO - Packet logged: 192.168.0.100 -> 20.250.77.142 (Flags: A)
+2024-10-12 17:56:10,188 - INFO - Packet logged: 20.250.77.142 -> 192.168.0.100 (Flags: A)
+2024-10-12 17:56:11,623 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: PA)
+2024-10-12 17:56:11,748 - INFO - Packet logged: 20.199.120.182 -> 192.168.0.100 (Flags: PA)
+2024-10-12 17:56:11,794 - INFO - Packet logged: 192.168.0.100 -> 20.199.120.182 (Flags: A)
+2024-10-12 17:56:14,884 - INFO - Packet logged: 192.168.0.100 -> 35.228.14.46 (Flags: A)
+2024-10-12 17:56:16,270 - INFO - Packet logged: 192.168.0.100 -> 35.228.14.46 (Flags: A)
+2024-10-12 17:56:16,434 - INFO - Packet logged: 35.228.14.46 -> 192.168.0.100 (Flags: A)
+2024-10-12 17:56:18,180 - INFO - Packet logged: 192.168.0.100 -> 35.186.134.240 (Flags: A)
+2024-10-12 17:56:18,418 - INFO - Packet logged: 35.186.134.240 -> 192.168.0.100 (Flags: A)
+2024-10-12 17:56:18,442 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-12 17:56:18,444 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-12 17:56:49,290 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-12 18:02:29,109 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-12 18:02:29,494 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 18:02:29,503 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: A)
+2024-10-12 18:02:29,787 - INFO - Packet logged: 192.168.0.100 -> 172.64.155.209 (Flags: A)
+2024-10-12 18:02:29,814 - INFO - Packet logged: 172.64.155.209 -> 192.168.0.100 (Flags: A)
+2024-10-12 18:02:31,168 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 18:02:31,172 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: A)
+2024-10-12 18:02:31,175 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 18:02:31,180 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-12 18:02:31,185 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: A)
+2024-10-12 18:02:39,098 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: PA)
+2024-10-12 18:02:39,103 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: A)
+2024-10-12 18:02:39,125 - INFO - Packet logged: 192.168.0.100 -> 35.228.14.46 (Flags: PA)
+2024-10-12 18:02:39,129 - INFO - Packet logged: 192.168.0.100 -> 35.228.14.46 (Flags: PA)
+2024-10-12 18:02:39,132 - INFO - Packet logged: 192.168.0.100 -> 35.228.14.46 (Flags: PA)
+2024-10-12 18:02:39,291 - INFO - Packet logged: 35.228.14.46 -> 192.168.0.100 (Flags: A)
+2024-10-12 18:02:39,296 - INFO - Packet logged: 35.228.14.46 -> 192.168.0.100 (Flags: PA)
+2024-10-12 18:02:39,333 - INFO - Packet logged: 192.168.0.100 -> 35.228.14.46 (Flags: A)
+2024-10-12 18:02:39,488 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 18:02:39,492 - INFO - Packet logged: 104.26.6.95 -> 192.168.0.100 (Flags: PA)
+2024-10-12 18:02:39,496 - INFO - Packet logged: 192.168.0.100 -> 104.26.6.95 (Flags: A)
+2024-10-12 18:02:39,517 - INFO - Raw packet data saved to logs/packet_log.csv
+2024-10-12 18:02:39,520 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-12 18:02:53,489 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2024-10-13 23:55:53,594 - INFO - Starting packet capture on interface: Wi-Fi
+2024-10-13 23:55:56,163 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-13 23:55:56,188 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-13 23:55:56,563 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-13 23:55:56,580 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-13 23:55:56,595 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-13 23:55:56,609 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: A)
+2024-10-13 23:55:56,622 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-13 23:55:56,636 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-13 23:55:59,936 - INFO - Packet logged: 192.168.0.100 -> 20.250.77.142 (Flags: A)
+2024-10-13 23:56:03,524 - INFO - Packet logged: 192.168.0.100 -> 62.8.89.17 (Flags: S)
+2024-10-13 23:56:03,548 - INFO - Packet logged: 62.8.89.17 -> 192.168.0.100 (Flags: SA)
+2024-10-13 23:56:03,561 - INFO - Packet logged: 192.168.0.100 -> 62.8.89.17 (Flags: A)
+2024-10-13 23:56:03,575 - INFO - Packet logged: 192.168.0.100 -> 62.8.89.17 (Flags: PA)
+2024-10-13 23:56:03,756 - INFO - Packet logged: 62.8.89.17 -> 192.168.0.100 (Flags: PA)
+2024-10-13 23:56:03,800 - INFO - Packet logged: 192.168.0.100 -> 62.8.89.17 (Flags: A)
+2024-10-13 23:56:06,161 - INFO - Packet logged: 192.168.0.100 -> 104.26.7.95 (Flags: PA)
+2024-10-13 23:56:06,180 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: A)
+2024-10-13 23:56:06,410 - INFO - Packet logged: 192.168.0.100 -> 64.233.184.188 (Flags: A)
+2024-10-13 23:56:06,488 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-13 23:56:06,506 - INFO - Packet logged: 104.26.7.95 -> 192.168.0.100 (Flags: PA)
+2024-10-13 23:56:06,536 - INFO - Running Nmap scan: nmap -sS -O -sV -oX logs/nmap_scan_results.xml 192.168.0.100
+2024-10-13 23:56:19,994 - INFO - Nmap scan completed. Results saved to logs/nmap_scan_results.xml
+2025-01-07 18:38:01,222 - INFO - Starting packet capture on interface: Ethernet
+2025-01-07 18:46:33,953 - INFO - Starting packet capture on interface: {30CEB0DB-6BC7-4F6B-A50B-4804D3C2757F}
+2025-01-07 18:46:33,997 - ERROR - Error during packet capture: Interface '{30CEB0DB-6BC7-4F6B-A50B-4804D3C2757F}' not found !
+2025-01-07 18:46:47,754 - INFO - Starting packet capture on interface: Ethernet
+2025-01-07 18:49:03,512 - INFO - Starting packet capture on interface: Ethernet
+2025-01-07 19:02:37,003 - INFO - Starting packet capture on interface: Ethernet

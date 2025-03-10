@@ -1,0 +1,21 @@
+# Nmap 7.95 scan initiated Mon Jan 13 22:05:30 2025 as: nmap -sS -O -sV -oN C:/Users/EFAC/PycharmProjects/NIDS/logs\\nmap_scan_results.txt 192.168.220.234
+Nmap scan report for 192.168.220.234
+Host is up (0.00028s latency).
+Not shown: 993 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+3306/tcp open  mysql         MySQL 8.0.31
+4443/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+5357/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+5432/tcp open  postgresql    PostgreSQL DB 9.6.0 or later
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1809 - 21H2
+Network Distance: 0 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jan 13 22:06:04 2025 -- 1 IP address (1 host up) scanned in 35.89 seconds
